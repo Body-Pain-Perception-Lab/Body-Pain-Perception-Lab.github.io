@@ -22,7 +22,7 @@ repository               : "body-pain-perception-lab/body-pain-perception-lab.gi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "Profile.jpg"
   name             : "Body Pain Perception"
   pronouns         : # example: "she/her"  
   bio              : "Body Pain Perception Lab"
