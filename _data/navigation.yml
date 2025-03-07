@@ -6,20 +6,21 @@
 
 main:
 
-  - title: "Members"
-    url: /portfolio/
+  - title: "People"
+    url: /people/
+    
+  - title: "Projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "News"
+    url: /news/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Join our team!"
+    url: /join/    
     
-  - title: "Blog Posts"
-    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv/

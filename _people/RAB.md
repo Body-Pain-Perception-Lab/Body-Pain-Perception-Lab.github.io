@@ -1,7 +1,8 @@
 ---
 title: "Rebecca Astrid Böhme"
-collection: portfolio
-excerpt: "<Research Assistant br/><img src='/images/RAB_circle.png'>"
+collection: people
+position: 8
+excerpt: "<br/><img src='/images/RAB_circle.png'>"
 excerpt_separator: <!--more-->
 ---
 
