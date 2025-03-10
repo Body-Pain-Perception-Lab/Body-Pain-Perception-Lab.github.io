@@ -18,10 +18,9 @@ main:
   - title: "News"
     url: /news/    
 
-  - title: "Join our team!"
-    url: /join/    
-    
-    
+  # - title: "Join our team!"
+  #  url: /join/    
+  #  
   # - title: "CV"
   #   url: /cv/
   #   

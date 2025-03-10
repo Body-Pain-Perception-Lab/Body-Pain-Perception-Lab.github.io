@@ -1,5 +1,5 @@
 ---
-title: "Assessing individual sensitivity to the Thermal Grill Illusion: A two-dimensional adaptive psychophysical approach"
+title: "Assessing individual sensitivity to the thermal grill illusion: A two-dimensional adaptive psychophysical approach"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-27-threshold-tgi
