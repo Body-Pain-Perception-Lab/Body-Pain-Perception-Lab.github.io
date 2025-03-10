@@ -15,7 +15,7 @@ venue: 'Pain'
 🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/tgi-spinal)
 
 ## Authors
-Alexandra G. Mitchell, Jesper Fischer Ehmsen, Daniel Elmstrøm Christensen, Anna Villaume Stuckert, Patrick Haggard, and Francesca Fardo.
+Alexandra G. Mitchell, Jesper Fischer Ehmsen, Daniel Elmstrøm Christensen, Anna Villaume Stuckert, Patrick Haggard, Francesca Fardo
 
 ## Abstract
 

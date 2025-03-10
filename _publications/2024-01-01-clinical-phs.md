@@ -15,7 +15,7 @@ venue: 'Pain'
 📄 [Publisher's version](https://journals.lww.com/pain/fulltext/2024/01000/paradoxical_heat_sensation_as_a_manifestation_of.19.aspx) 
 
 ## Authors
-Jan Vollert, Francesca Fardo, Nadine Attal, Ralf Baron, Didier Bouhassira, Elena Enax-Krumova, Rainer Freynhagen, Per Hansson, Troels S. Jensen, Dilara Kersebaum, Christoph Maier, Esther Pogatzki-Zahn, Andrew S.C. Rice, Juliane Sachau, Ellen L. Schaldemose, Märta Segerdahl, Manon Sendel, Thomas Tölle, Nanna B. Finnerup, and Rolf-Detlef Treede.
+Jan Vollert, Francesca Fardo, Nadine Attal, Ralf Baron, Didier Bouhassira, Elena Enax-Krumova, Rainer Freynhagen, Per Hansson, Troels S. Jensen, Dilara Kersebaum, Christoph Maier, Esther Pogatzki-Zahn, Andrew S.C. Rice, Juliane Sachau, Ellen L. Schaldemose, Märta Segerdahl, Manon Sendel, Thomas Tölle, Nanna B. Finnerup, Rolf-Detlef Treede
 
 ## Abstract
 

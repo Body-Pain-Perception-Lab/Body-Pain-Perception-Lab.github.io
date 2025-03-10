@@ -17,7 +17,7 @@ venue: 'European Journal of Pain'
 📄 [Publisher's version](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.2251)
 
 ## Authors
-Sophie Clarke, Richard Rogers, Vishvarani Wanigasekera, Francesca Fardo, Hossein Pia, Zahra Nochi, Nicolas Macian, Vincent Leray, Nanna Brix Finnerup, Gisèle Pickering, André Mouraux, Andrea Truini, Rolf-Detlef Treede, Luis Garcia-Larrea, and Irene Tracey.
+Sophie Clarke, Richard Rogers, Vishvarani Wanigasekera, Francesca Fardo, Hossein Pia, Zahra Nochi, Nicolas Macian, Vincent Leray, Nanna Brix Finnerup, Gisèle Pickering, André Mouraux, Andrea Truini, Rolf-Detlef Treede, Luis Garcia-Larrea, Irene Tracey
 ## Abstract
 
 **Background and Objective:** Functional magnetic resonance imaging, in conjunction with models of peripheral and/or central sensitization, has been used

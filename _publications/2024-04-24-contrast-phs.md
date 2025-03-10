@@ -15,7 +15,7 @@ venue: 'Communications Psychology'
 🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/PHS-TemporalContrast)
 
 ## Authors
-Alexandra G. Mitchell, Jesper Fischer Ehmsen, Małgorzata Basińska, Arthur S. Courtin, Rebecca A. Böhme, Camila Sardeto Deolindo, Micah G. Allen, Kristian Sandberg, and Francesca Fardo.
+Alexandra G. Mitchell, Jesper Fischer Ehmsen, Małgorzata Basińska, Arthur S. Courtin, Rebecca A. Böhme, Camila Sardeto Deolindo, Micah G. Allen, Kristian Sandberg, Francesca Fardo
 
 ## Abstract
 

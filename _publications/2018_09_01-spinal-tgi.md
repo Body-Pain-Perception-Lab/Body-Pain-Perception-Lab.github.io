@@ -14,7 +14,7 @@ venue: 'Annals of Neurology'
 📄 [Publisher's version](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25307)
 
 ## Authors
-Francesca Fardo, Nanna B. Finnerup, and Patrick Haggard.
+Francesca Fardo, Nanna B. Finnerup, Patrick Haggard
 
 ## Abstract
 **Objective**  

@@ -16,7 +16,7 @@ venue: 'Journal of Pain'
 🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/tgi-thresholding)
 
 ## Authors
-Camila Sardeto Deolindo, Jesper Fischer Ehmsen, Arthur S. Courtin, Alexandra G. Mitchell, Camilla E. Kraenge, Niia Nikolova, Micah G. Allen, and Francesca Fardo.
+Camila Sardeto Deolindo, Jesper Fischer Ehmsen, Arthur S. Courtin, Alexandra G. Mitchell, Camilla E. Kraenge, Niia Nikolova, Micah G. Allen, Francesca Fardo
 
 ## Abstract
 
