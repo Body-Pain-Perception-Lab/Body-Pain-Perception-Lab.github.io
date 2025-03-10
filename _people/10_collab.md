@@ -7,7 +7,16 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-We appreciate everyone who has contributed to our lab, whether through a brief internship or by supporting our projects on a longer time scale. All your efforts have helped shape our research in meaningful ways.
+We actively collaborate with leading researchers to advance our understanding of pain and temperature perception in both acute and chronic conditions. Our work also extends to other perceptual and cognitive processes, including interoception (i.e., the ability to perceive bodily signals from visceral organs) and metacognition (i.e., insight into how we perceive, interpret, and make decisions).
 
-Thanks to:
-Anastasia S. Weakly, Johanne S. Rejsenhus, Camilla Sardeto Deolindo, Maelle Debock, Małgorzata Basińska, Daniel E. Christensen, Nicole Dwenger, Kristian S. Mengel-Niemann, Emma R. Olsen, Ellen L. Schaldemose, Thea R. Sloth, Signe K. Brødbæk, Sofie Jacobsen, Anna V. Stuckert, Melina Vejlø, Lena Hansen.
+Our ongoing collaborations are with:
+
+**Micah Allen** & the Embodied Computation Group, Aarhus University (Denmark)
+
+**Sif Gylfadottir**, Aarhus University (Denmark)
+
+**Fernando Exposto**, Aarhus University (Denmark)
+
+**Ben de Haas**, Giessen University (Germany)
+
+**Julie Lasselin**, Karolinska Institute (Sweden)

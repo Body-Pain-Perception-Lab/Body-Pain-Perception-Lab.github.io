@@ -23,7 +23,7 @@ repository               : "body-pain-perception-lab/body-pain-perception-lab.gi
 author:
   # Biographic information
   avatar           : "Profile.jpg"
-  name             : "Body Pain Perception"
+  name             : #"Body Pain Perception"
   pronouns         : # example: "she/her"  
   bio              : #"Body Pain Perception Lab"
   location         : "Denmark"
