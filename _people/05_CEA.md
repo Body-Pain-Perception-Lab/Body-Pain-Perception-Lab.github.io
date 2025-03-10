@@ -1,7 +1,6 @@
 ---
 title: "Camilla E. Krænge"
 collection: people
-position: 5
 excerpt: "<br/><img src='/images/CEA_circle.png'>"
 excerpt_separator: <!--more-->
 ---

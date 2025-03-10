@@ -1,7 +1,6 @@
 ---
 title: "Alexandra G. Mitchell, PhD"
 collection: people
-position: 2
 excerpt: "<br/><img src='/images/AGM_circle.png'>"
 excerpt_separator: <!--more-->
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Jesper Fischer Ehmsen"
 collection: people
-position: 6
 excerpt: "<br/><img src='/images/JFE_circle.png'>"
 excerpt_separator: <!--more-->
 ---
