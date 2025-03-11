@@ -4,8 +4,6 @@ layout: talk
 permalink: /news/
 ---
 
-## Latest News  
-
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2025  
@@ -20,7 +18,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *3 Mar*: 📢 Alex submits a poster abstract to NeuPSIG on paradoxical heat across the lifespan. If this topic interests you, let’s meet in Berlin this fall! <br>
 
-*28 Feb*: 🚀 Our brilliant collaborator, Ashley, has just released her latest preprint on the effects of noradrenergic blockade on interoception and metacognition. Truly fantastic work! [Check it out here](/publication/2025-02-28-na-intero) <br>
+*28 Feb*: 🚀 Our brilliant collaborator, Ashley, has just released her latest preprint on the effects of noradrenergic blockade on interoception and metacognition. Truly fantastic work! [Check it out](/publication/2025-02-28-na-intero) <br>
 
 *17 Feb*: 🏆 Thank you, Lundbeck Foundation, for another grant! This time, we’ll be organizing a Computational Pain Conference in Aarhus, scheduled for October 2025. Stay tuned for more details soon! <br>
 
@@ -28,7 +26,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *13 Feb*: 📄 Camilla and Francesca submitted a paper today! After years of work, it feels great to finally send this off. Fingers crossed! <br>
 
-*1 Feb*: 📖  Camila’s latest paper is featured in the February issue of The Journal of Pain! [Check it out here](/publication/2025-02-27-threshold-tgi) <br>
+*1 Feb*: 📖  Camila’s latest paper is featured in the February issue of The Journal of Pain! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
 
 *21 Jan*: 🤝 We had the pleasure of hosting Julia Stache from Karolinska Institutet to discuss our ongoing collaboration on core body temperature perception, inflammation, and sickness. Special thanks to her supervisor, Julie Lasselin, who joined us online to share more about their research! <br>
 
@@ -60,7 +58,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *12 Aug*: 🧳 Camilla’s research visit begins at the Nocion Lab at Université Catholique de Louvain (Belgium). We wish her a fantastic research visit and look forward to hearing about her experiences! <br>
 
-*5 Aug*: 🌍 This week, the BPP Lab is attending the International Association for the Study of Pain (IASP) Conference! It's always a pleasure to reconnect with colleagues, meet new collaborators, and engage in exciting discussions about pain science! <br>
+*5 Aug*: 🌍 This week, the BPP Lab is attending the International Association for the Study of Pain (IASP) conference in Amsterdam! It's always a pleasure to reconnect with colleagues, meet new collaborators, and engage in exciting discussions about pain science! <br>
 
 *17 Jul*: 🎤 Francesca and Micah visit San Camillo Hospital in Venice Lido to present their latest research! An inspiring exchange of ideas in a stunning setting. Thank you to our hosts for welcoming us. We hope to return for a longer visit (preferably when it’s a bit cooler!)
 
