@@ -10,6 +10,12 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2025  
 
+<!-- *16 Mar*: Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with you over the past few months and look forward to staying in touch as you continue your rotations in other labs throughout the year! <br> -->
+
+<!-- *Mar*: 🎙️ Francesca appears on the Science podcast to discuss how the brain constructs the experience of pain! Tune in [here] to hear an engaging breakdown of our key findings, recently published in Science Advances <br>.-->
+
+<!-- *12 Mar*: 🔥 New "hot" paper published in Science Advances: “Thermosensory predictive coding underpins an illusion of pain” A huge thank you to everyone involved, as this was a massive team effort! [Check it out here](/publication/2025-03-12-tgi-uncertainty). <br> -->
+
 *6 Mar*: 📰 We’re gearing up to release some exciting new science! Things are bubbling under the surface, and we can’t wait to share our findings with you soon. Stay tuned! <br>
 
 *3 Mar*: 📢 Alex submits a poster abstract to NeuPSIG on paradoxical heat across the lifespan. If this topic interests you, let’s meet in Berlin this fall! <br>
