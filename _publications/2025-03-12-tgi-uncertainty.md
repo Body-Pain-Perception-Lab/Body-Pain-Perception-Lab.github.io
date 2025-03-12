@@ -1,16 +1,17 @@
 ---
 title: "Thermosensory predictive coding underpins an illusion of pain"
 collection: publications
-category: publication
+category: manuscripts
 permalink: /publication/2025-03-12-tgi-uncertainty
 excerpt:
 date: 2025-03-12
-venue: 'BioRxiv'
+venue: 'Science Advances'
 ---
 
 <!--more-->
 
 📄 [Publisher's version](https://www.science.org/doi/10.1126/sciadv.adq0261) <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/Thermal-Pain-Learning) <br>
 
 ## Authors
 Jesper Fischer Ehmsen, Niia Nikolova, Daniel Elmstrøm Christensen, Leah Banellis, Rebecca A. Böhme, Malthe Brændholt, Arthur S Courtin, Camilla E Kraenge, Alexandra G Mitchell, Camila Sardeto Deolindo, Christian Steenkjaer, Melina Vejlø, Christoph Mathys, Micah G Allen, Francesca Fardo
