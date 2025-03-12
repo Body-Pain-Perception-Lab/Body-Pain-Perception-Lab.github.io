@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2025-02-27-threshold-tgi
 excerpt:
 date: 2025-02-27
-venue: 'Journal of Pain'
+venue: 'The Journal of Pain'
 #paperurl: 'https://github.com/Body-Pain-Perception-Lab/tgi-thresholding/tree/main/Manuscript/Deolindo_JPain_2025.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
