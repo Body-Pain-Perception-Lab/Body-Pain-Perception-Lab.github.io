@@ -8,19 +8,21 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2025  
 
+<!-- *Aug*: Welcome, Mira! -->
+
 <!-- *Jun*: Francesca in Magdeburg -->
 
 <!-- *May*: Aalborg-Aarhus meet-up -->
 
 <!-- *Apr*: EFIC in Lyon -->
 
-<!-- *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and his supervisor, Leonardo Bonetti, from the Music in the Brain Center. Mattia will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks using linear decomposition algorithms. Looking forward to the discussion! -->
+<!-- *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and his supervisor, Leonardo Bonetti, from the Music in the Brain Center. Mattia will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks. Looking forward to the discussion! -->
 
 <!-- *16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br> -->
 
 <!-- *Mar*: 🎙️ Francesca appears on the Science podcast to discuss how the brain constructs the experience of pain! Tune in [here] to hear an engaging breakdown of our key findings, recently published in Science Advances <br>.-->
 
-<!-- *12 Mar*: 🔥 New "hot" paper published in Science Advances: “Thermosensory predictive coding underpins an illusion of pain” A huge thank you to everyone involved, as this was a massive team effort! [Check it out here](/publication/2025-03-12-tgi-uncertainty). <br> -->
+<!-- *12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out here](/publication/2025-03-12-tgi-uncertainty). <br> -->
 
 *6 Mar*: 📰 We’re gearing up to release some exciting new science! Things are bubbling under the surface, and we can’t wait to share our findings with you soon. Stay tuned! <br>
 
@@ -90,9 +92,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm)
 
+*14 Mar*: 🚀 Today marks the start of our Lundbeck Foundation Experiment Grant project! We are excited to use large language models to better understand pain from the perspectives of healthcare professionals and patients. Looking forward to the journey ahead! <br>
+
 *12 Feb*: 🧠 Preprint alert! When consciousness research meets somatosensory neuroscience, exciting things happen! This one comes from our collaboration with Maria and Tristan at Cambridge University! [Check it out](/publication/2024-02-12-somato-global-local)
 
 *5 Feb*: 📖 Congrats to Sophie and all collaborators on their review and meta-analysis on peripheral and central sensitization, now accepted in the *European Journal of Pain*. [Check it out](/publication/2024-05-02-meta-analysis-sensitisation) <br>
+
+*31 Jan*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation—and here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta) <br>
 
 *2 Jan*: 🎉 This landmark study on paradoxical heat sensation in individuals with pain-related chronic conditions is now featured in the January issue of *Pain*. Huge congratulations to everyone involved! [Check it out](/publication/2024-01-01-clinical-phs) <br>
 
