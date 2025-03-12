@@ -8,7 +8,15 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2025  
 
-<!-- *16 Mar*: Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with you over the past few months and look forward to staying in touch as you continue your rotations in other labs throughout the year! <br> -->
+<!-- *Jun*: Francesca in Magdeburg -->
+
+<!-- *May*: Aalborg-Aarhus meet-up -->
+
+<!-- *Apr*: EFIC in Lyon -->
+
+<!-- *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and his supervisor, Leonardo Bonetti, from the Music in the Brain Center. Mattia will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks using linear decomposition algorithms. Looking forward to the discussion! -->
+
+<!-- *16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br> -->
 
 <!-- *Mar*: 🎙️ Francesca appears on the Science podcast to discuss how the brain constructs the experience of pain! Tune in [here] to hear an engaging breakdown of our key findings, recently published in Science Advances <br>.-->
 
@@ -30,11 +38,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *21 Jan*: 🤝 We had the pleasure of hosting Julia Stache from Karolinska Institutet to discuss our ongoing collaboration on core body temperature perception, inflammation, and sickness. Special thanks to her supervisor, Julie Lasselin, who joined us online to share more about their research! <br>
 
+*14 Jan*: 👋 Welcome, Anouk! She's a bachelor student at Cognitive Science at Aarhus University, and she is interested to learn how we do pain research! We’re excited to have her on board and look forward to collaborating! <br>
+
 *9 Jan*: 👋 Welcome, Anastasia! She’s an NAD-PhD fellow who chose our lab for her first rotation, eager to learn about magnetoencephalography (MEG). We’re excited to help her get started! <br>
 
 *6 Jan*: 🎉 Welcome back, Rebecca! She first joined us as an intern in 2021 during her bachelor’s in Psychology at Potsdam University (Germany). After completing her master’s at Lund University (Sweden), she’s now back as a full-time Research Assistant on our Lundbeck-funded project on pain and language. We’re thrilled to have her on board! <br>
 
-*1 Jan*: 🎂 The BPP Lab celebrates four years of top-notch pain science! And Kora is officially starting her PhD today! <br>
+*1 Jan*: 🎂 The BPP Lab celebrates four years of top-notch pain science! And Kora is officially starting their PhD today! <br>
 
 ### 2024
 
