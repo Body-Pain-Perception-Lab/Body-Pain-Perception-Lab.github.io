@@ -8,13 +8,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2025  
 
-<!-- *Aug*: Welcome, Mira! -->
+<!-- *Aug*: 👋 Welcome, Mira! -->
 
 <!-- *Jun*: Francesca in Magdeburg -->
 
 <!-- *May*: Aalborg-Aarhus meet-up -->
 
-<!-- *Apr*: EFIC in Lyon -->
+<!-- *Apr*: 🌍 EFIC in Lyon -->
 
 <!-- *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and his supervisor, Leonardo Bonetti, from the Music in the Brain Center. Mattia will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks. Looking forward to the discussion! -->
 
@@ -72,7 +72,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *3 Sep*: 📢 Exciting discussions on interoception and active inference as Ryan Smith gives a talk at CFIN. Always great to engage with computational research! Thanks to the ECG lab for inviting him! <br>
 
-*20 Aug*: 🧗 We were lucky to have Ben de Haas stop by CFIN during his family holiday near Aarhus. He gave us another fantastic talk on vision science — always a treat! And in the spirit of tradition, some of us went climbing afterward. Fun fact: Ben introduced Francesca and Micah to climbing back in their London days at the Castle Climbing Centre! <br>
+*20 Aug*: 🧗 We're lucky to have Ben de Haas stop by CFIN during his family holiday near Aarhus. He's giving us another fantastic talk on vision science — always a treat! And in the spirit of tradition, some of us will go climbing afterward. Fun fact: Ben introduced Francesca and Micah to climbing back in their London days at the Castle Climbing Centre! <br>
 
 *12 Aug*: 🧳 Camilla’s research visit begins at the Nocion Lab at Université Catholique de Louvain (Belgium). We wish her a fantastic research visit and look forward to hearing about her experiences! <br>
 
@@ -82,9 +82,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *1 Jul*: 😊 Francesca and Micah are at Padova University reconnecting with former colleagues. Revisiting familiar places with new insights made for a rewarding and nostalgic experience! <br>
 
-*25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. It was also a pleasure to attend the FENS Kavli Network event! <br>
+*25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. Francesca and Micah are excited to attend the FENS Kavli Network event! <br>
+
+*1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on thermosensation and pain perception to study ageing and neuropathy. We’re excited to work with her! <br>
 
 *24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs) <br>
+
+*15 Apr*: 🌟 The lab is attending a talk by interoception research giant Olga Pollatos, who is visiting the ECG lab, together with two of her students! We're inspired!
 
 *11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri) <br>
 
@@ -92,13 +96,23 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm)
 
+*15 Mar*: ❄️ Another preprint alert! This time, Camila presents her method for calibrating the thermal grill illusion based on individual sensitivity. Psychophysics is cool! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
+
 *14 Mar*: 🚀 Today marks the start of our Lundbeck Foundation Experiment Grant project! We are excited to use large language models to better understand pain from the perspectives of healthcare professionals and patients. Looking forward to the journey ahead! <br>
 
-*12 Feb*: 🧠 Preprint alert! When consciousness research meets somatosensory neuroscience, exciting things happen! This one comes from our collaboration with Maria and Tristan at Cambridge University! [Check it out](/publication/2024-02-12-somato-global-local)
+*26 Feb*: 🌈 Alex is visiting Ben de Haas in Giessen this week! Will population receptive field mapping reveal a spatial map for encoding temperature in the cortex? Stay tuned for the answer! <br>
+
+*12 Feb*: 🧠 Preprint alert! When consciousness research meets somatosensory neuroscience, exciting things happen! This one comes from our collaboration with Maria and Tristan at Cambridge University! [Check it out](/publication/2024-02-12-somato-global-local) <br>
+
+*9 Feb*: 🇦🇹 We’re submitting poster abstracts for FENS in Vienna this June! This will be the first joint conference for the BPP and ECG labs. <br>
 
 *5 Feb*: 📖 Congrats to Sophie and all collaborators on their review and meta-analysis on peripheral and central sensitization, now accepted in the *European Journal of Pain*. [Check it out](/publication/2024-05-02-meta-analysis-sensitisation) <br>
 
-*31 Jan*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation—and here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta) <br>
+*1 Feb*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation—and here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta) <br>
+
+*31 Jan*:  🇳🇱 Most team members submitted poster abstracts to IASP today. Looking forward to attending this conference in Amsterdam this August! <br>
+
+*10 Jan*: 📢 Preprint alert! The research Rebecca started during her bachelor thesis has now developed into a manuscript ready for submission. Impressive work! [Check it out](/publication/2024-10-01-pain-health) <br>
 
 *2 Jan*: 🎉 This landmark study on paradoxical heat sensation in individuals with pain-related chronic conditions is now featured in the January issue of *Pain*. Huge congratulations to everyone involved! [Check it out](/publication/2024-01-01-clinical-phs) <br>
 

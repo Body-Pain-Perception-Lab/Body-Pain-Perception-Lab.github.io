@@ -15,4 +15,4 @@ At the Body Pain Perception Lab, we study how the brain constructs pain, from it
 
 We are an international and interdisciplinary team of researchers with backgrounds in cognitive science, neuroscience, psychology, physiotherapy, and medicine. Using psychophysics, neuroimaging (MRI, EEG, MEG) and computational modeling, we investigate how the central nervous system (brain and spinal cord) generate, amplify, and sometimes distort pain. Our research spans both healthy individuals and those living with chronic pain conditions, allowing us to uncover fundamental mechanisms while also seeking insights that could improve pain assessment and management.  
 
-The lab is based at the Center of Functionally Integrative Neuroscience (CFIN) and the Danish Pain Research Center (DPRC) at Aarhus University in Denmark.  
+The lab is based at the Center of Functionally Integrative Neuroscience [(CFIN)](https://cfin.au.dk/) and the Danish Pain Research Center [(DPRC)](https://clin.au.dk/dprc) at the Department of Clinical Medicine, Aarhus University in Denmark.  

@@ -2,9 +2,9 @@
 title: "No Evidence For A Link Between Mental Health Symptoms And Pain Thresholds"
 collection: publications
 category: preprints
-permalink: /publication/2024-04-01-pain-health
+permalink: /publication/2024-10-01-pain-health
 excerpt:
-date: 2024-04-01
+date: 2024-10-01
 venue: 'OSF'
 ---
 
