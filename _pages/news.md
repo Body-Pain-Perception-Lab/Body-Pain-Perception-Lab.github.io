@@ -34,7 +34,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *13 Feb*: 📄 Camilla and Francesca submitted a paper today! After years of work, it feels great to finally send this off. Fingers crossed! <br>
 
-*1 Feb*: 📖  Camila’s latest paper is featured in the February issue of The Journal of Pain! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
+*1 Feb*: 📖  Camila’s latest paper is featured in the February issue of *The Journal of Pain*! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
 
 *21 Jan*: 🤝 We had the pleasure of hosting Julia Stache from Karolinska Institutet to discuss our ongoing collaboration on core body temperature perception, inflammation, and sickness. Special thanks to her supervisor, Julie Lasselin, who joined us online to share more about their research! <br>
 
@@ -56,15 +56,19 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *19 Nov*: 👁 The BPP Lab had the pleasure of attending a talk by Ole Jensen, visiting from Oxford University. A fantastic example of how to do proper cognitive neuroscience! <br>
 
+*25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wondering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
+
 *22 Oct*: 🇩🇰 For the next two days, Rebecca is attending the D3A Conference (Danish Digitalization, Data Science, and AI) in Nyborg. Looking forward to the insights she brings back! <br>
 
 *15 Oct*: 🔍 Phenomenology meets cognitive neuroscience! We were thrilled to host Peter Stilwell and Anthony Fernandez from Odense University for an eye-opening presentation on phenomenology. Their ideas challenged us (in the best way possible!) and resonated deeply with our own work, just from a different perspective! <br>
 
-*1 Oct*: 🎉 Welcome, Arthur! Today, he officially starts his postdoc in the BPP Lab, but truth be told, he’s been one of us for a long time already. Excited for this next chapter! <br>
+*2 Oct*: 🎉 Welcome, Arthur! Today, he officially starts his postdoc in the BPP Lab, but truth be told, he’s been one of us for a long time already. Excited for this next chapter! <br>
+
+*1 Oct*: 📖 Alex’s latest paper on the thermal grill illusion is featured in the October issue of *Pain*! [Check it out](/publication/2024-10-01-spinal-tgi). We're also grateful for the positive commentary on our work. [Check it out too!](https://journals.lww.com/pain/fulltext/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1#related) <br>
 
 *9 Sep*: 📊 Arthur and Jesper at the Stan Conference in Oxford! <br>
 
-*3 Sep*: 📢 Exciting discussions on interoception and active inference as Ryan Smith gives a talk at CFIN. Always great to engage with cutting-edge research! Thanks to the ECG lab for inviting him! <br>
+*3 Sep*: 📢 Exciting discussions on interoception and active inference as Ryan Smith gives a talk at CFIN. Always great to engage with computational research! Thanks to the ECG lab for inviting him! <br>
 
 *20 Aug*: 🧗 We were lucky to have Ben de Haas stop by CFIN during his family holiday near Aarhus. He gave us another fantastic talk on vision science — always a treat! And in the spirit of tradition, some of us went climbing afterward. Fun fact: Ben introduced Francesca and Micah to climbing back in their London days at the Castle Climbing Centre! <br>
 
@@ -72,8 +76,24 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *5 Aug*: 🌍 This week, the BPP Lab is attending the International Association for the Study of Pain (IASP) conference in Amsterdam! It's always a pleasure to reconnect with colleagues, meet new collaborators, and engage in exciting discussions about pain science! <br>
 
-*17 Jul*: 🎤 Francesca and Micah visit San Camillo Hospital in Venice Lido to present their latest research! An inspiring exchange of ideas in a stunning setting. Thank you to our hosts for welcoming us. We hope to return for a longer visit (preferably when it’s a bit cooler!)
+*17 Jul*: 🎤 Francesca and Micah visit San Camillo Hospital in Venice Lido to present their latest research! An inspiring exchange of ideas in a stunning setting. Thank you to our hosts for welcoming us. We hope to return for a longer visit (preferably when it’s a bit cooler!) <br>
 
-*1 Jul*: 😊 Francesca and Micah are at Padova University reconnecting with former colleagues. Revisiting familiar places with new insights made for a rewarding and nostalgic experience!
+*1 Jul*: 😊 Francesca and Micah are at Padova University reconnecting with former colleagues. Revisiting familiar places with new insights made for a rewarding and nostalgic experience! <br>
 
-*25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. It was also a pleasure to attend the FENS Kavli Network event!
+*25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. It was also a pleasure to attend the FENS Kavli Network event! <br>
+
+*24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs) <br>
+
+*11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri) <br>
+
+*30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](/publication/2024-03-30-tgi-uncertainty)  <br>
+
+*28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm)
+
+*12 Feb*: 🧠 Preprint alert! When consciousness research meets somatosensory neuroscience, exciting things happen! This one comes from our collaboration with Maria and Tristan at Cambridge University! [Check it out](/publication/2024-02-12-somato-global-local)
+
+*5 Feb*: 📖 Congrats to Sophie and all collaborators on their review and meta-analysis on peripheral and central sensitization, now accepted in the *European Journal of Pain*. [Check it out](/publication/2024-05-02-meta-analysis-sensitisation) <br>
+
+*2 Jan*: 🎉 This landmark study on paradoxical heat sensation in individuals with pain-related chronic conditions is now featured in the January issue of *Pain*. Huge congratulations to everyone involved! [Check it out](/publication/2024-01-01-clinical-phs) <br>
+
+*1 Jan*: 🎂 The BPP Lab turns three! That means we’re officially a toddler: full of energy, curiosity, and occasionally causing a little chaos in the name of science! <br>

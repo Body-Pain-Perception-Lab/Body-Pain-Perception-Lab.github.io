@@ -2,9 +2,9 @@
 title: "Inwardly focused cognitive style as a link between mental imagery and mental health"
 collection: publications
 category: preprints
-permalink: /publication/2024-01-31-gender-meta
+permalink: /publication/2024-09-01-imagery-health
 excerpt:
-date: 2024-01-31
+date: 2024-09-01
 venue: 'OSF'
 ---
 
