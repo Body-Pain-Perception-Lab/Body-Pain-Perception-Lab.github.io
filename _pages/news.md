@@ -22,7 +22,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *Mar*: 🎙️ Francesca appears on the Science podcast to discuss how the brain constructs the experience of pain! Tune in [here] to hear an engaging breakdown of our key findings, recently published in Science Advances <br>.-->
 
-<!-- *12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out here](/publication/2025-03-12-tgi-uncertainty). <br> -->
+*12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out](https://www.science.org/doi/10.1126/sciadv.adq0261) <br>
 
 *6 Mar*: 📰 We’re gearing up to release some exciting new science! Things are bubbling under the surface, and we can’t wait to share our findings with you soon. Stay tuned! <br>
 
