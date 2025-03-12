@@ -2,9 +2,9 @@
 title: "Thermosensory predictive coding underpins an illusion of pain"
 collection: publications
 category: publication
-permalink: /publication/2024-03-30-tgi-uncertainty
+permalink: /publication/2025-03-12-tgi-uncertainty
 excerpt:
-date: 2024-03-30
+date: 2025-03-12
 venue: 'BioRxiv'
 ---
 
