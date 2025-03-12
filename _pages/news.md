@@ -56,6 +56,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *19 Nov*: 👁 The BPP Lab had the pleasure of attending a talk by Ole Jensen, visiting from Oxford University. A fantastic example of how to do proper cognitive neuroscience! <br>
 
+*22 Oct*: 🇩🇰 For the next two days, Rebecca is attending the D3A Conference (Danish Digitalization, Data Science, and AI) in Nyborg. Looking forward to the insights she brings back! <br>
+
 *15 Oct*: 🔍 Phenomenology meets cognitive neuroscience! We were thrilled to host Peter Stilwell and Anthony Fernandez from Odense University for an eye-opening presentation on phenomenology. Their ideas challenged us (in the best way possible!) and resonated deeply with our own work, just from a different perspective! <br>
 
 *1 Oct*: 🎉 Welcome, Arthur! Today, he officially starts his postdoc in the BPP Lab, but truth be told, he’s been one of us for a long time already. Excited for this next chapter! <br>
