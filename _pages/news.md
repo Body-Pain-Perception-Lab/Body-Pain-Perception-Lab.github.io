@@ -108,7 +108,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *5 Feb*: 📖 Congrats to Sophie and all collaborators on their review and meta-analysis on peripheral and central sensitization, now accepted in the *European Journal of Pain*. [Check it out](/publication/2024-05-02-meta-analysis-sensitisation) <br>
 
-*1 Feb*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation—and here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta) <br>
+*1 Feb*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation. And here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta) <br>
 
 *31 Jan*:  🇳🇱 Most team members submitted poster abstracts to IASP today. Looking forward to attending this conference in Amsterdam this August! <br>
 
