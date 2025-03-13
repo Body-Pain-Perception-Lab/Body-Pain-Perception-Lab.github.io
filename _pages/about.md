@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About us
+##   
 
 How does the brain turn raw sensory input into something as deeply personal and complex as pain?
 
