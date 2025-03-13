@@ -84,6 +84,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. Francesca and Micah are excited to attend the FENS Kavli Network event! <br>
 
+*22 May*: ❓ Why does cold sometimes feel warm? Dive into our blog post to  understand paradoxical heat sensation! [Check it out](https://communities.springernature.com/posts/why-does-cold-sometimes-feel-warm-using-what-we-see-to-understand-how-we-feel)
+
 *1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on thermosensation and pain perception to study ageing and neuropathy. We’re excited to work with her! <br>
 
 *24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs) <br>
