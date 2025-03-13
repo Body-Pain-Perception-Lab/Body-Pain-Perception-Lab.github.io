@@ -92,7 +92,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri) <br>
 
-*30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](/publication/2024-03-30-tgi-uncertainty)  <br>
+*30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](https://www.biorxiv.org/content/10.1101/2024.03.27.587070v1.full)  <br>
 
 *28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm)
 
