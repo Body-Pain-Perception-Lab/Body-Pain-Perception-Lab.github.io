@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-##   
+##  About us 
 
 How does the brain turn raw sensory input into something as deeply personal and complex as pain?
 
@@ -17,7 +17,7 @@ At the Body Pain Perception Lab, we study how the brain constructs pain, from it
 
 We are an international and interdisciplinary team of researchers with backgrounds in cognitive science, neuroscience, psychology, physiotherapy, and medicine. Using psychophysics, neuroimaging (MRI, EEG, MEG) and computational modeling, we investigate how the central nervous system (brain and spinal cord) generate, amplify, and sometimes distort pain. Our research spans both healthy individuals and those living with chronic pain conditions, allowing us to uncover fundamental mechanisms while also seeking insights that could improve pain assessment and management.  
 
-We are based at the Center of Functionally Integrative Neuroscience [(CFIN)](https://cfin.au.dk/) and the Danish Pain Research Center [(DPRC)](https://clin.au.dk/dprc) at the Department of Clinical Medicine, Aarhus University in Denmark.  
+We are based at the Center of Functionally Integrative Neuroscience [(CFIN)](https://cfin.au.dk/) at the Department of Clinical Medicine, Aarhus University in Denmark.  
 
 ## Lab culture
 
