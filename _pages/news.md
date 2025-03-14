@@ -20,7 +20,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br> -->
 
-<!-- *Mar*: 🎙️ Francesca appears on the Science podcast to discuss how the brain constructs the experience of pain! Tune in [here] to hear an engaging breakdown of our key findings, recently published in Science Advances <br>.-->
+*13 Mar:* 🎙 Francesca joined th *Science Podcast* to discuss how the brain constructs the experience of pain, hosted by the brilliantly insightful Sarah Crespi! Check out the podcast [here](https://www.science.org/content/podcast/why-sign-language-could-be-crucial-kids-cochlear-implants-studying-illusion-pain-and) and jump to 26:44 for an engaging breakdown of our key findings, recently published in *Science Advances*. It was an honor to talk about our research with someone whose depth of understanding made the conversation so rewarding.
 
 *12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out](https://www.science.org/doi/10.1126/sciadv.adq0261) <br>
 
@@ -44,7 +44,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *9 Jan*: 👋 Welcome, Anastasia! She’s an NAD-PhD fellow who chose our lab for her first rotation, eager to learn about magnetoencephalography (MEG). We’re excited to help her get started! <br>
 
-*6 Jan*: 🎉 Welcome back, Rebecca! She first joined us as an intern in 2021 during her bachelor’s in Psychology at Potsdam University (Germany). After completing her master’s at Lund University (Sweden), she’s now back as a full-time Research Assistant on our Lundbeck-funded project on pain and language. We’re thrilled to have her on board! <br>
+*6 Jan*: 🎉 Welcome back, Rebecca! She first joined us as an intern in 2021 during her bachelor’s in Psychology at Potsdam University (Germany). After completing her master’s at Lund University (Sweden), she’s now back as a full-time Research Assistant on our Lundbeck-funded project on pain and language. We’re thrilled to have her on board again! <br>
 
 *1 Jan*: 🎂 The BPP Lab celebrates four years of top-notch pain science! And Kora is officially starting their PhD today! <br>
 
@@ -57,6 +57,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 *28 Nov*: 🎤 Francesca presents at the Center for Neuroplasticity and Pain, Aalborg University! She had the pleasure of presenting our work on the thermal grill illusion at the Translational Neurobiology of the Pain System XXIX seminar. A huge thank you to Thomas and Kristian for the invitation and for leading an exciting discussion on what “pain modulation” means. Plus, great chats on science and life in Denmark and beyond! <br>
 
 *19 Nov*: 👁 The BPP Lab had the pleasure of attending a talk by Ole Jensen, visiting from Oxford University. A fantastic example of how to do proper cognitive neuroscience! <br>
+
+*8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974) for an insightful conversation!
 
 *25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wondering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
 
@@ -86,7 +88,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *22 May*: ❓ Why does cold sometimes feel warm? Dive into our blog post to  understand paradoxical heat sensation! [Check it out](https://communities.springernature.com/posts/why-does-cold-sometimes-feel-warm-using-what-we-see-to-understand-how-we-feel)
 
-*1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on thermosensation and pain perception to study ageing and neuropathy. We’re excited to work with her! <br>
+*1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on how ageing and neuropathy influence thermosensation and pain perception. We’re excited to work with her! <br>
 
 *24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs) <br>
 
