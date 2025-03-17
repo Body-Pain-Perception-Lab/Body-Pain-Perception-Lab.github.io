@@ -12,4 +12,5 @@ We appreciate everyone who has contributed to our lab, whether through a brief i
 Thanks to:
 Anastasia S. Weakly, Johanne S. Rejsenhus, Camilla Sardeto Deolindo, Maelle Debock, Małgorzata Basińska, Daniel E. Christensen, Nicole Dwenger, Kristian S. Mengel-Niemann, Emma R. Olsen, Ellen L. Schaldemose, Thea R. Sloth, Signe K. Brødbæk, Jonas Kassow, Sofie Jacobsen, Anna V. Stuckert, Melina Vejlø, Pernille D. Pedersen, Lena Hansen.
 
+<!-- Cyprien Simonnet -->
 <!-- Mira Baumgartinger -->

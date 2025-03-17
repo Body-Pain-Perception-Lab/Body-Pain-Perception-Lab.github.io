@@ -16,9 +16,11 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *Apr*: 🌍 EFIC in Lyon -->
 
+<!-- *24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months! -->
+
 <!-- *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and his supervisor, Leonardo Bonetti, from the Music in the Brain Center. Mattia will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks. Looking forward to the discussion! -->
 
-<!-- *16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br> -->
+*16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br>
 
 *13 Mar:* 🎙 Francesca joined the *Science Podcast* to discuss how the brain constructs the experience of pain, hosted by the brilliantly insightful Sarah Crespi! Check out the episode [here](https://www.science.org/content/podcast/why-sign-language-could-be-crucial-kids-cochlear-implants-studying-illusion-pain-and) and jump to 26:44 for an engaging breakdown of our key findings, recently published in *Science Advances*. It was an honor to talk about our research with someone whose depth of understanding made the conversation so rewarding.
 
