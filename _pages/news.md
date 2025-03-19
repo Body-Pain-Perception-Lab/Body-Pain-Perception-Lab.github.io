@@ -18,7 +18,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months! -->
 
-*19 Mar*: 📢 New PsyArXiv preprint from our ECG collaborator Leah, exploring domain-specificity in respiratory and cardiac interoception! [Check it out](/publication/2025-03-19-multi-intero) <br>
+*19 Mar*: 📢 New PsyArXiv preprint from our ECG collaborator Leah, showing domain-specificity in respiratory and cardiac interoception! [Check it out](/publication/2025-03-19-multi-intero) <br>
 
 *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and Leonardo Bonetti from the Center for Music in the Brain. They will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks. Looking forward to the discussion!
 
