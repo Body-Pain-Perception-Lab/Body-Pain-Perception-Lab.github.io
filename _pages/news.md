@@ -16,7 +16,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *Apr*: 🌍 EFIC in Lyon -->
 
-<!-- *24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months! -->
+*24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months!
 
 *21 Mar*: 💬 We had a great time hosting Cecile de Vos from Rotterdam Uni today! She visited our lab to chat about neuromodulation, spinal cord stimulation, and all the exciting research we’ve been working on lately. Always a pleasure to have such engaging and insightful conversations! <br>
 
