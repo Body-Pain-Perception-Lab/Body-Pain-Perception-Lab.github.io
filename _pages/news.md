@@ -16,6 +16,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *Apr*: 🌍 EFIC in Lyon -->
 
+*28 Mar*: 🚀 Huge congrats to ECG postdoc Leah for landing her very own 3-year postdoc grant from the Lundbeck Foundation! She'll now be kicking off exciting research on brain-body interactions, supported by labs in Denmark and the US. Way to go, Leah!
+
 *24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months!
 
 *21 Mar*: 💬 We had a great time hosting Cecile de Vos from Rotterdam Uni today! She visited our lab to chat about neuromodulation, spinal cord stimulation, and all the exciting research we’ve been working on lately. Always a pleasure to have such engaging and insightful conversations! <br>
