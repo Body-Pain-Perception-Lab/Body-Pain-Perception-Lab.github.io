@@ -8,13 +8,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2025  
 
-<!-- *Aug*: 👋 Welcome, Mira! -->
+<!-- *Aug*: 👋 Welcome, Silvana! -->
 
 <!-- *Jun*: Francesca in Magdeburg -->
 
 <!-- *May*: Aalborg-Aarhus meet-up -->
 
-<!-- *Apr*: 🌍 EFIC in Lyon -->
+*24-26 Apr*: 🌍 The BPP lab is at EFIC in Lyon, with two fantastic topical workshops led by Alex and Arthur! We're all excited to share our latest findings on how temperature and pain is represented in the brain, and on the role of volatility in pain learning!
 
 *28 Mar*: 🚀 Huge congrats to ECG postdoc Leah for landing her very own 3-year postdoc grant from the Lundbeck Foundation! She'll now be kicking off exciting research on brain-body interactions, supported by labs in Denmark and the US. Way to go, Leah!
 
