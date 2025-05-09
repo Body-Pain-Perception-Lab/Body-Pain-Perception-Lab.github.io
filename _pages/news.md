@@ -12,7 +12,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- *Jun*: Francesca in Magdeburg -->
 
-<!-- *May*: Aalborg-Aarhus meet-up -->
+<!-- *Jun*: Pain and Placebo conference -->
 
 *24-26 Apr*: 🌍 The BPP lab is at EFIC in Lyon, with two fantastic topical workshops led by Alex and Arthur! We're all excited to share our latest findings on how temperature and pain is represented in the brain, and on the role of volatility in pain learning!
 
