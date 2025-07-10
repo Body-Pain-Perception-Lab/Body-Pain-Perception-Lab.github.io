@@ -16,4 +16,22 @@ venue: 'BioRxiv'
 Jesper F. Ehmsen, Alexandra G. Mitchell, Arthur S. Courtin, Camilla E. Krænge, Cyprien Simonnet, Francesca Fardo
 
 ## Abstract
-The perturbational complexity index (PCI), grounded in systems dynamic and information theory, quantifies the brain’s capacity for differentiation and integration of neural activity. While it has been used to characterise consciousness states following transcranial magnetic stimulation, its responsiveness to sensory perturbations remains underexplored. Here, using two publicly available datasets, we computed state-transition PCI from thermal-evoked responses recorded over 32-64 scalp channels. Dataset 1 combined three stimulus intensities (10 °C, 42 °C, 60 °C) with topical application of thermosensitive TRP-channel agonists (menthol 20 %, capsaicin 1 %) or vehicle; Dataset 2 manipulated the block-wise transition probability of receiving cold (≈ 15 °C) or hot (≈ 58 °C) stimulation. PCI scaled non-linearly with temperature, being lowest at the intermediate 42 °C and highest at the cold and hot extremes (Datasets 1 and 2). PCI was sensitive both to peripheral sensitisation, as topical menthol and capsaicin selectively reduced PCI during cold stimulation (Dataset 1), and to changes in block-wise stimulus probability (Dataset 2). Across all analyses, classical ERP peak measures (N2–P2 amplitude/latency) failed to explain PCI variance. These findings demonstrate that sensory-evoked PCI reflects the brain’s response to exogenous, sensory-driven perturbations, quantifying changes in neural complexity associated with both stimulus intensity, peripheral sensitisation and probabilistic manipulations. This supports its broader applicability as a measure of temporal and spatial differentiation in the domain of sensory and pain neuroscience.
+Most studies of perceptual illusions rely on explicit reports alone, offering a limited view into
+the computations that underlie ambiguous sensory experiences. Here, we introduce a multi-
+variate computational approach to model paradoxical heat sensation (PHS), a thermosensory
+illusion in which skin cooling evokes sensations of warmth, as an individual-specific process.
+We tested 75 healthy adults (aged 21–80) using a perceptual decision-making task with
+stimuli designed to elicit PHS. Binary perceptual choices, response times and confidence rat-
+ings were jointly analysed using hierarchical multivariate Bayesian modelling to characterise
+PHS at both the population and individual levels across the lifespan. We tested two distinct
+perceptual profiles: “true perceivers”, who experience PHS similarly to a veridical warm per-
+cept; and “unsure perceivers”, who perceive PHS as an ambiguous experience. At the group
+level, behaviour was best explained by the unsure perceiver model, suggesting that PHS is
+often an uncertain experience, rather than a categorical misperception. At the individual
+level, however, both profiles were represented, with considerable inter-individual variability
+in model fit. Older participants were more likely to report PHS and did so at lower levels of
+thermal contrast, but we observed no correlation between age and perceptual profile. This
+suggests that while ageing increases the likelihood of experiencing PHS, it does not alter the
+qualitative nature of its perception. These findings also show how multivariate modelling
+of perceptual, decisional and metacognitive responses can reveal distinct, subjective profiles
+and their variation across individuals and age.
