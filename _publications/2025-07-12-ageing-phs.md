@@ -1,5 +1,5 @@
 ---
-title: "Interoceptive ability is uncorrelated across respiratory and cardiac axes: a large scale psychophysical study"
+title: "Modelling perceptual uncertainty in a thermosensory illusion across the lifespan"
 collection: publications
 category: preprints
 permalink: /publication/2025-03-19-multi-intero

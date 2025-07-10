@@ -1,5 +1,5 @@
 ---
-title: "Interoceptive ability is uncorrelated across respiratory and cardiac axes: a large scale psychophysical study"
+title: "Sensory-evoked perturbational complexity in human EEG: Effects of stimulus temperature and peripheral sensitisation in nociceptive processing"
 collection: publications
 category: preprints
 permalink: /publication/2025-03-19-multi-intero
