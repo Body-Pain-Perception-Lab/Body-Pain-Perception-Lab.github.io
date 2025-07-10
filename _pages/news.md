@@ -8,11 +8,15 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2025  
 
+<!-- *Sep*: Francesca in Magdeburg -->
 <!-- *Aug*: 👋 Welcome, Silvana! -->
+<!-- *Sep*: Francesca in Lausanne -->
 
-<!-- *Jun*: Francesca in Magdeburg -->
+*12 Jul*: 📢 New lab preprint out! We investigated how people experience paradoxical heat sensation, using top-tier computational modeling. Big shoutout to Jesper and Alex for the fantastic work! [Check it out](/publication/2025-07-12-ageing-phs) <br>
 
-<!-- *Jun*: Pain and Placebo conference -->
+*7 Jul*: 📢 Kora's first preprint is out! What can complexity measures reveal about thermosensation and pain? [Find out here!](/publication/2025-07-08-pain-complexity) <br>
+
+*10 Jun*: 🗣️ Francesca is presenting our latest work at Neuroscience Day at Aarhus University! The theme is "Pain and Placebo," and we have plenty of awesome findings to share with you! <br>
 
 *24-26 Apr*: 🌍 The BPP lab is at EFIC in Lyon, with two fantastic topical workshops led by Alex and Arthur! We're all excited to share our latest findings on how temperature and pain is represented in the brain, and on the role of volatility in pain learning!
 
