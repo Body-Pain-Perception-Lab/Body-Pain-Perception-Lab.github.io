@@ -4,12 +4,12 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-pain-health
 excerpt:
-date: 2024-10-01
+date: 2025-07-13
 venue: 'Anxiety, Stress, & Coping'
 ---
 
 <!--more-->
-
+<!-- 📄 [Publisher's version]() <br> -->
 📄 [Preprinted version](https://files.osf.io/v1/resources/bc627/providers/osfstorage/659ebf457dbd220068d852eb?action=download&direct&version=2) <br>
 
 ## Authors
