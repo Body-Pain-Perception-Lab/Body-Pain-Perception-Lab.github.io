@@ -1,5 +1,5 @@
 ---
-title: "No Evidence For A Link Between Mental Health Symptoms And Pain Thresholds"
+title: "No evidence for a link between mental health symptoms and pain thresholds"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-07-13-pain-health
