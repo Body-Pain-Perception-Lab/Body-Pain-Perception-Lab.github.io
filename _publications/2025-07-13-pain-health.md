@@ -9,8 +9,8 @@ venue: 'Anxiety, Stress, & Coping'
 ---
 
 <!--more-->
-<!-- 📄 [Publisher's version]() <br> -->
-📄 [Preprinted version](https://files.osf.io/v1/resources/bc627/providers/osfstorage/659ebf457dbd220068d852eb?action=download&direct&version=2) <br>
+📄 [Publisher's version]() <br>
+🐙 [Data and code]() <br>
 
 ## Authors
 Rebecca A Böhme, Leah Banellis, Melina Vejlø, Micah G. Allen, Francesca Fardo
