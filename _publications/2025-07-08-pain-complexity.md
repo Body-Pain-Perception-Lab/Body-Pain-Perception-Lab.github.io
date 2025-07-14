@@ -2,9 +2,9 @@
 title: "Sensory-evoked perturbational complexity in human EEG: Effects of stimulus temperature and peripheral sensitisation in nociceptive processing"
 collection: publications
 category: preprints
-permalink: /publication/2025-03-19-multi-intero
+permalink: /publication/2025-07-08-pain-complexity
 excerpt:
-date: 2025-03-19
+date: 2025-07-08
 venue: 'BioRxiv'
 ---
 
