@@ -7,12 +7,13 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2025  
-
+<!-- *Sep*: Pain conference in Aarhus -->
 <!-- *Sep*: Francesca in Magdeburg -->
-<!-- *Aug*: 👋 Welcome, Silvana! -->
-<!-- *Sep*: Francesca in Lausanne -->
+<!-- *Sep*: BPP lab in Berlin! -->
+<!-- *Aug*: Francesca in Lausanne -->
+<!-- *Aug*: Rebecca and Francesca in Nyborg -->
 
-*12 Jul*: 📢 New lab preprint out! We investigated how people experience paradoxical heat sensation, using top-tier computational modeling. Big shoutout to Jesper and Alex for the fantastic work! [Check it out](/publication/2025-07-12-ageing-phs) <br>
+*16 Jul*: 📢 New lab preprint out! We investigated how people experience paradoxical heat sensation, using top-tier computational modeling. Big shoutout to Jesper and Alex for the fantastic work! [Check it out](/publication/2025-07-12-ageing-phs) <br>
 
 *7 Jul*: 📢 Kora's first preprint is out! What can complexity measures reveal about thermosensation and pain? [Find out here!](/publication/2025-07-08-pain-complexity) <br>
 

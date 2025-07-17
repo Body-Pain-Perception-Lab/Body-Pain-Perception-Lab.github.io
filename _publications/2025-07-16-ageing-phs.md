@@ -2,9 +2,9 @@
 title: "Modelling perceptual uncertainty in a thermosensory illusion across the lifespan"
 collection: publications
 category: preprints
-permalink: /publication/2025-07-12-ageing-phs
+permalink: /publication/2025-07-16-ageing-phs
 excerpt:
-date: 2025-07-12
+date: 2025-07-16
 venue: 'BioRxiv'
 ---
 
