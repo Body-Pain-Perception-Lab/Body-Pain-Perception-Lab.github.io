@@ -7,11 +7,25 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2025  
-<!-- *Sep*: Pain conference in Aarhus -->
-<!-- *Sep*: Francesca in Magdeburg -->
-<!-- *Sep*: BPP lab in Berlin! -->
-<!-- *Aug*: Francesca in Lausanne -->
-<!-- *Aug*: Rebecca and Francesca in Nyborg -->
+
+
+*26 Sep*: 🎙️ Day 2 (and the grand finale!) of the Computational Pain Neuroscience Conference in Aarhus. Today is all about large language models, bold visions for pain research, and cutting-edge methodological advances! <br>
+
+*25 Sep*: 🎙️ Day 1 of the first-ever Computational Pain Neuroscience Conference! An incredible line-up took us from single-neuron models to Bayesian frameworks for representation, reward, and pain learning in the human brain. Huge thanks to all speakers for a fantastic start !<br>
+
+*24 Sep*: 🚨 New preprint from Arthur and the lab! Using Bayesian modelling, we show how ageing and diabetic neuropathy impact both sensitivity and precision of thermal perception. [Check it out](/publication/2025-09-24-thresholds-ageing-neuropathy) <br>
+
+*8 Sep*: 🚉 Francesca is visiting Elena Azanon and colleagues at Magdeburg University! A packed schedule full of inspiring conversations and overlapping ideas. Hopefully new collaborations will be on the horizon soon! <br>
+
+*4 Sep*: 🚉 Francesca and Alex are in Berlin for three days with the NeuPSIG community! They’ll be talking about thermal pain measurement and sharing our latest work on paradoxical heat, ageing, and neuropathy. <br>
+
+*1 Sep*: 👋 Welcome, Berran! They're joining the lab for a 6-month internship to investigate how large language models can help us understand conversations around mental health and chronic pain! <br>
+
+*1 Sep*: 🚨 New preprint from Arthur (with Jesper, Leah, Francesca & Micah)! We show how hierarchical Bayesian models can make psychophysics more powerful, efficient, and accessible; with code, tutorials, and even a Shiny app to help researchers get started. [Check it out](/publication/2025-09-01-bayes-intero) <br>
+
+*29 Aug*: 🔥 Francesca presented at the NeuroTech Symposium in Lausanne! She shared some “hot” and “cool” neuroimaging data on how the brain encodes temperature information. Thanks to Marzia for the invite! <br>
+
+*26 Aug*: 🤖 Francesca and Rebecca are at the D3A (Danish Digitalization, Data Science & AI) conference in Nyborg! It was a blast chatting with a new crowd and brainstorming future directions for our LLMs & pain research. <br>
 
 *16 Jul*: 📢 New lab preprint out! We investigated how people experience paradoxical heat sensation, using top-tier computational modeling. Big shoutout to Jesper and Alex for the fantastic work! [Check it out](/publication/2025-07-12-ageing-phs) <br>
 
