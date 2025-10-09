@@ -7,7 +7,7 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2025  
-
+<!-- *28 Nov*: MEG Nord -->
 
 *26 Sep*: 🎙️ Day 2 (and the grand finale!) of the Computational Pain Neuroscience Conference in Aarhus. Today is all about large language models, bold visions for pain research, and cutting-edge methodological advances! <br>
 
