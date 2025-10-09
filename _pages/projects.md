@@ -13,7 +13,7 @@ Investigating how the nervous system generates pain-like sensations in absence o
 Using natural language processing and statistical models to detect early signs of chronic pain from doctors’ notes, narratives and patient records.
 
 ## **NAD fellowship** 
-**EEG complexity and pain perception**
+**EEG complexity and pain perception** <br>
 Studying how measures of neural complexity in EEG signals relate to pain-related processing and pain perception.
 
 
