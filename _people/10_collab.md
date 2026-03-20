@@ -21,3 +21,5 @@ Our ongoing collaborations are with:
 **Ben de Haas**, Giessen University (Germany)
 
 **Julie Lasselin**, Karolinska Institute (Sweden)
+
+**Falk Eippert**, Max Planck Institute for Human Cognitive and Brain Science, Leipzig (Germany)
