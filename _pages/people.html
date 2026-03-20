@@ -8,16 +8,10 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.people %}
-  {% if post.status == "active" and post.title != "Collaborators" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
 <h2><a href="{{ base_path }}/alumni/">Alumni and former members</a></h2>
 
 {% for post in site.people %}
-  {% if post.title == "Collaborators" %}
+  {% if post.status == "active" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
