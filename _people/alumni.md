@@ -2,6 +2,8 @@
 title: "Alumni and former members"
 collection: people
 status: hidden
+redirect_from:
+  - /alumni/
 excerpt: <!--more-->
 excerpt_separator: <!--more-->
 ---
