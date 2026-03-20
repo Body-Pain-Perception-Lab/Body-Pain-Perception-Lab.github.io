@@ -2,6 +2,8 @@
 # Order is determined by end_date (most recent first).
 # Add new entries with name and end_date.
 
+- name: "Alexandra G. Mitchell"
+  end_date: 2025-12-31
 - name: "Cyprien Simonnet"
   end_date:
 - name: "Anouk Bollmann"
