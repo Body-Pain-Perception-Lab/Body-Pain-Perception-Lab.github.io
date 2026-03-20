@@ -1,16 +1,16 @@
 ---
 title: "Inwardly focused cognitive style as a link between mental imagery and mental health"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2024-09-01-imagery-health
 excerpt:
-date: 2024-09-01
-venue: 'OSF'
+date: 2026-02-01
+venue: 'Heliyon'
 ---
 
 <!--more-->
 
-📄 [Preprinted version](https://www.researchgate.net/profile/Juha-Silvanto/publication/383933113_Inwardly_focused_cognitive_style_as_a_link_between_Mental_imagery_and_Mental_Health/links/676484c500aa3770e0ac0b5d/Inwardly-focused-cognitive-style-as-a-link-between-Mental-imagery-and-Mental-Health.pdf) <br>
+📄 [Publisher's version](https://www.cell.com/heliyon/fulltext/S2405-8440(25)02838-5) <br>
 
 ## Authors
 Timo L Kvamme, Renate Rutiku, Michal Wierzchon, Inga Griskova-Bulanova, Francesca Fardo, Kristian Sandberg, Juha Silvanto

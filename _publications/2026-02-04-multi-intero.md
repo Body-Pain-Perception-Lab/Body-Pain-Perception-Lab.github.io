@@ -1,16 +1,17 @@
 ---
-title: "Interoceptive ability is uncorrelated across respiratory and cardiac axes: a large scale psychophysical study"
+title: "Interoceptive ability is uncorrelated across respiratory and cardiac axes in a large scale psychophysical study"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2025-03-19-multi-intero
 excerpt:
-date: 2025-03-19
-venue: 'PsyArXiv'
+date: 2026-02-04
+venue: 'Communications Psychology'
 ---
 
 <!--more-->
 
-📄 [Preprinted version](https://osf.io/preprints/psyarxiv/s56v4_v1) <br>
+📄 [Publisher's version](https://www.nature.com/articles/s44271-026-00404-z) <br>
+🐙 [Data and code](https://github.com/embodied-computation-group/multi_intero) <br>
 
 ## Authors
 Leah Banellis, Niia Nikolova, Jesper Fischer Ehmsen, Arthur S. Courtin, Melina Vejlø, Ashley Tyrer, Rebecca A. Böhme, Francesca Fardo, Micah G. Allen
