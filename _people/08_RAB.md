@@ -2,7 +2,7 @@
 title: "Rebecca Astrid Böhme"
 collection: people
 status: active
-end_date:
+end_date: 2026-12-31
 excerpt: "<br/><img src='/images/RAB_circle.png'>"
 excerpt_separator: <!--more-->
 ---

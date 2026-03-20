@@ -14,7 +14,11 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2><a href="{{ base_path }}/alumni/">Alumni and former members</a></h2>
+{% for post in site.people %}
+  {% if post.status == "hidden" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 {% for post in site.people %}
   {% if post.title == "Collaborators" %}
