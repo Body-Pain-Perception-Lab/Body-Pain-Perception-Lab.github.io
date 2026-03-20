@@ -1,6 +1,8 @@
 ---
 title: "Arthur S. Courtin, PT, PhD"
 collection: people
+status: active
+end_date:
 excerpt: "<br/><img src='/images/AC_circle.png'>"
 excerpt_separator: <!--more-->
 ---

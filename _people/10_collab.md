@@ -1,6 +1,7 @@
 ---
 title: "Collaborators"
 collection: people
+status: active
 excerpt: <!--more-->
 excerpt_separator: <!--more-->
 ---

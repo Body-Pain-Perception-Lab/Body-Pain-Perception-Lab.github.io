@@ -1,6 +1,8 @@
 ---
 title: "Alexandra G. Mitchell, PhD"
 collection: people
+status: alumni
+end_date: 2025-12-31
 excerpt: "<br/><img src='/images/AGM_circle.png'>"
 excerpt_separator: <!--more-->
 ---

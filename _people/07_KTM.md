@@ -1,6 +1,8 @@
 ---
 title: "Kora T. Montemagno"
 collection: people
+status: active
+end_date:
 excerpt: "<br/><img src='/images/KTM_circle.png'>"
 excerpt_separator: <!--more-->
 ---

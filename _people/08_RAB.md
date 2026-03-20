@@ -1,6 +1,8 @@
 ---
 title: "Rebecca Astrid Böhme"
 collection: people
+status: active
+end_date:
 excerpt: "<br/><img src='/images/RAB_circle.png'>"
 excerpt_separator: <!--more-->
 ---

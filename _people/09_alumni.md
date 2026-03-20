@@ -1,6 +1,7 @@
 ---
 title: "Alumni and former members"
 collection: people
+status: hidden
 excerpt: <!--more-->
 excerpt_separator: <!--more-->
 ---
