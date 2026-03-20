@@ -1,8 +1,8 @@
 ---
 title: "Jesper Fischer Ehmsen"
 collection: people
-status: active
-end_date:
+status: alumni
+end_date: 2026-03-14
 excerpt: "<br/><img src='/images/JFE_circle.png'>"
 excerpt_separator: <!--more-->
 ---

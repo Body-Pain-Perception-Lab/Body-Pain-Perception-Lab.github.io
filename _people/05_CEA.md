@@ -1,8 +1,8 @@
 ---
 title: "Camilla E. Krænge"
 collection: people
-status: active
-end_date:
+status: alumni
+end_date: 2025-11-01
 excerpt: "<br/><img src='/images/CEA_circle.png'>"
 excerpt_separator: <!--more-->
 ---

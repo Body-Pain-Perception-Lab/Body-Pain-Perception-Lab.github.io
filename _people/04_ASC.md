@@ -1,8 +1,8 @@
 ---
 title: "Arthur S. Courtin, PT, PhD"
 collection: people
-status: active
-end_date:
+status: alumni
+end_date: 2026-03-31
 excerpt: "<br/><img src='/images/AC_circle.png'>"
 excerpt_separator: <!--more-->
 ---

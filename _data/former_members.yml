@@ -2,8 +2,14 @@
 # Order is determined by end_date (most recent first).
 # Add new entries with name and end_date.
 
+- name: "Arthur S. Courtin"
+  end_date: 2026-03-31
+- name: "Jesper Fischer Ehmsen"
+  end_date: 2026-03-14
 - name: "Alexandra G. Mitchell"
   end_date: 2025-12-31
+- name: "Camilla E. Krænge"
+  end_date: 2025-11-01
 - name: "Cyprien Simonnet"
   end_date:
 - name: "Anouk Bollmann"
