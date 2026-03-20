@@ -10,5 +10,4 @@ author_profile: true
 <p>We appreciate everyone who has contributed to our lab, whether through a brief internship or by supporting our projects on a longer time scale. All your efforts have helped shape our research in meaningful ways.</p>
 
 <p>Thanks to:
-{% assign former = site.data.former_members | sort: "end_date" | reverse %}
-{% for member in former %}{{ member.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}.</p>
+{% assign dated = site.data.former_members | where_exp: "m", "m.end_date" | sort: "end_date" | reverse %}{% assign undated = site.data.former_members | where_exp: "m", "m.end_date == nil" %}{% for member in dated %}{{ member.name }}, {% endfor %}{% for member in undated %}{{ member.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}.</p>
