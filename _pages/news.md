@@ -6,8 +6,33 @@ permalink: /news/
 
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
-### 2025  
-<!-- *28 Nov*: MEG Nord -->
+### 2026
+
+*25 Mar*: 🧠 Leah's paper on the embodied dimension of the wandering mind is now published in *PNAS*! This one carries a special meaning for everyone involved and honours the spirit of curiosity and collaboration that brought it to life. [Check it out](/publication/2026-03-25-body-wandering) <br>
+
+*24 Mar*: 👋 Leaving do for the incredible duo Arthur & Jesper. It has been an absolute honour to have them as part of the lab. Their scientific curiosity, warmth, and dedication have left a lasting mark on all of us. We wish them the very best as they continue their academic journeys — the future is bright for both of them! <br>
+
+*16 Mar*: 🔬 A new collaboration kicks off in Leipzig today. We're really excited about this one — stay tuned to find out what we're cooking! <br>
+
+*21 Feb*: 📖 Camilla's first PhD paper is out in *Cognition*! A huge milestone and a testament to years of hard work. Congratulations, Camilla! <br>
+
+*2 Feb*: 🎓 Francesca is in Oxford to serve on a PhD defence committee! Always a pleasure to engage with the next generation of researchers. <br>
+
+*5 Jan*: 👋 Gergo is officially joining the lab! We're thrilled to have him on board and looking forward to expanding our language modelling projects together. <br>
+
+*2 Jan*: ✍️ The post-Christmas grant writing sprint is on. Caffeine levels: high. Determination: higher. See you on the other side! <br>
+
+*1 Jan*: 🎂 The BPP Lab turns five today! These have been five incredible years of curiosity-driven science. This is a year of transitions with the ERC Starting Grant and LF Experiment Grant drawing to a close, and with them, familiar faces will move on to new positions while new ones will join to write the next chapter. There is something deeply beautiful about transitions: every departure carries a piece of what we built together into the wider world, and every arrival brings fresh energy and perspective. Here's to what has been — and to everything that is yet to come. <br>
+
+### 2025
+
+*15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days — catching up on the latest science and life events of close friends and collaborators. Science is better when it's personal! <br>
+
+*4 Dec*: 👋 Leaving do for Alex. Four years as a postdoc in the lab is no small feat, and we are so grateful for everything she has brought to our team. As Alex herself says, endings and new beginnings are often bittersweet — but we're glad she's moving on to a new position very close by. This isn't goodbye, just see you soon! <br>
+
+*1 Dec*: ✍️ The pre-Christmas grant writing sprint officially starts for Francesca. May the words flow and the deadlines feel far away (they're not). <br>
+
+*26–28 Nov*: 🧲 Francesca is at MEG Nord in Aarhus! There's a feeling of coming full circle, since the very first edition was also held here — but with a wonderful twist of old and new connections along the way. <br>
 
 *26 Sep*: 🎙️ Day 2 (and the grand finale!) of the Computational Pain Neuroscience Conference in Aarhus. Today is all about large language models, bold visions for pain research, and cutting-edge methodological advances! <br>
 
