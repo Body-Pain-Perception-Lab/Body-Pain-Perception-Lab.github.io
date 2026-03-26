@@ -1,19 +1,20 @@
 ---
-title: "Body-wandering reveals an embodied dimension of thought with distinct affective and neural signatures"
+title: "Uncovering the embodied dimension of the wandering mind"
 collection: publications
-category: preprints
-permalink: /publication/2024-10-25-body-wandering
+category: manuscripts
+permalink: /publication/2026-03-25-body-wandering
 excerpt:
-date: 2024-10-25
-venue: 'BioRxiv'
+date: 2026-03-25
+venue: 'PNAS'
 ---
 
 <!--more-->
 
-📄 [Preprinted version](https://www.biorxiv.org/content/10.1101/2024.10.25.620252v2.abstract) <br>
+📄 [Publisher's version](https://www.pnas.org/doi/10.1073/pnas.2520822123) <br>
+🐙 [Data and code](https://github.com/embodied-computation-group/body_wandering_CCA) <br>
 
 ## Authors
 Leah Banellis, Niia Nikolova, Malthe Brændholdt, Melina Vejlø, Francesca Fardo, Jonathan Smallwood, Micah G Allen
 
 ## Abstract
-Humans often engage in self-generated thoughts when unoccupied by external events, a phenomenon commonly known as mind-wandering. Previous research has predominantly focused on the cognitive aspects of mind-wandering, overlooking the potential embodied or interoceptive components that contribute to our ongoing thought patterns. In this study, we addressed this gap by exploring “body-wandering“—thoughts related to internal bodily sensations such as breathing, heartbeat, and gastrointestinal functions. To assess body-wandering, we applied a retrospective multi-dimensional interoceptive experience sampling approach in 536 healthy participants concurrently with resting-state functional brain imaging. Our findings revealed that body-wandering is distinct from cognitively focused thoughts, underscoring the unique role of embodied processes in ongoing experience. Embodied thought patterns were associated with increased negative affect, heightened physiological arousal, and reduced ADHD symptoms. In contrast, cognitive-focused thoughts were linked to decreased negative affect, lower arousal, and higher depression symptoms. Notably, body-wandering corresponded with a unique neural signature involving increased connectivity between somatomotor, interoceptive, and thalamocortical brain networks. These results emphasise the importance of incorporating embodied processes into theoretical models of mind-wandering and suggest that individual differences in body-wandering significantly impact emotional states and mental health.
+When at rest, the mind becomes preoccupied with self-generated thoughts, commonly known as mind-wandering. While the social, autobiographical, and temporal features of these thoughts have been extensively studied, little is known about how frequently the wandering mind turns toward the interoceptive and somatic body. To map this underexplored component of “body-wandering,” we conducted a large-scale neuroimaging study in 536 healthy participants, expanding a retrospective multidimensional experience sampling approach to include probes targeting visceral and somatomotor thoughts. Our findings reveal a robust interindividual dimension of body-wandering characterized by negative affect, high autonomic arousal, and a reduction in socially oriented thoughts. Despite this negative tone, individual differences in the propensity for body-wandering thoughts were associated with lower self-reported symptoms of ADHD and depression. Multivariate functional connectivity analyses further revealed that affective, body-oriented thoughts are related to a pattern of thalamocortical connectivity interlinking somatomotor and interoceptive-allostatic cortical networks. Collectively, these results demonstrate that self-generated thoughts exhibit core embodied features which are linked to the ongoing physical and emotional milieu of the visceral body.
