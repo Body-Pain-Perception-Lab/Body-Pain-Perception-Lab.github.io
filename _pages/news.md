@@ -134,7 +134,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *3 Sep*: 📢 Exciting discussions on interoception and active inference as Ryan Smith gives a talk at CFIN. Always great to engage with computational research! Thanks to the ECG lab for inviting him! <br>
 
-*20 Aug*: 🧗 We're lucky to have Ben de Haas stop by CFIN during his family holiday near Aarhus. He's giving us another fantastic talk on vision science — always a treat! And in the spirit of tradition, some of us will go climbing afterward. Fun fact: Ben introduced Francesca and Micah to climbing back in their London days at the Castle Climbing Centre! <br>
+*20 Aug*: 🧗 We're lucky to have Ben de Haas stop by CFIN during his family holiday near Aarhus. He's giving us another fantastic talk on vision science, always a treat! And in the spirit of tradition, some of us will go climbing afterward. Fun fact: Ben introduced Francesca and Micah to climbing back in their London days at the Castle Climbing Centre! <br>
 
 *12 Aug*: 🧳 Camilla’s research visit begins at the Nocion Lab at Université Catholique de Louvain (Belgium). We wish her a fantastic research visit and look forward to hearing about her experiences! <br>
 
