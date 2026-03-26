@@ -10,7 +10,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *25 Mar*: 🧠 Leah's paper on the embodied dimension of the wandering mind is now published in *PNAS*! This one carries a special meaning for everyone involved and honours the spirit of curiosity and collaboration that brought it to life. [Check it out](/publication/2026-03-25-body-wandering) <br>
 
-*24 Mar*: 👋 Leaving do for the incredible duo Arthur & Jesper. It has been an absolute honour to have them as part of the lab. Their scientific curiosity, warmth, and dedication have left a lasting mark on all of us. We wish them the very best as they continue their academic journeys. The future is bright for both of them! <br>
+*24 Mar*: 👋 Leaving do for the incredible duo Arthur & Jesper. It has been an absolute honour to have them as part of the lab. Their scientific perspectives have left a lasting mark on all of us. We wish them the very best as they continue their academic journeys. The future is bright for both of them! <br>
 
 *16 Mar*: 🔬 A new collaboration kicks off in Leipzig today. We're really excited about this one. Stay tuned to find out what we're cooking! <br>
 
@@ -32,7 +32,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *31 Dec*: 👍 Thumbs up for this great collaboration led by Sophie. Check out one of the many papers in the pipeline! [Check it out](/publication/2025-12-01-HFS-secondary-hyperalgesia) <br>
 
-*15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days, catching up on the latest science and life events of close friends and collaborators. Science is better when it's personal! <br>
+*15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days, catching up on the latest science and life events of close friends and collaborators. Science is better when there are also personal connections! <br>
 
 *4 Dec*: 👋 Leaving do for Alex. Four years as a postdoc in the lab is no small feat, and we are so grateful for everything she has brought to our team. As Alex herself says, endings and new beginnings are often bittersweet, but we're glad she's moving on to a new position very close by. This isn't goodbye, just see you soon! <br>
 
