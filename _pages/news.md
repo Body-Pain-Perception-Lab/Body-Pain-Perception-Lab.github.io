@@ -14,11 +14,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *16 Mar*: 🔬 A new collaboration kicks off in Leipzig today. We're really excited about this one. Stay tuned to find out what we're cooking! <br>
 
-*21 Feb*: 📖 Camilla's first PhD paper is out in *Cognition*! A huge milestone and a testament to years of hard work. Congratulations, Camilla! <br>
+*21 Feb*: 📖 Camilla's first PhD paper is out in *Cognition*! A huge milestone and a testament to years of hard work. Congratulations, Camilla! [Check it out](/publication/2026-02-21-ddm-cognition) <br>
 
 *4 Feb*: 📖 Leah's paper is published in *Communications Psychology*! Can you feel your heart? What about your breath? Turns out, one doesn't predict the other. Interoception is not one sense but many. [Check it out](/publication/2025-03-19-multi-intero) <br>
 
 *2 Feb*: 🎓 Francesca is in Oxford to serve on a PhD defence committee! Always a pleasure to engage with the next generation of researchers. <br>
+
+*1 Feb*: 👏 Congrats to our colleagues Timo and Kristian for their paper on mental imagery and mental health! [Check it out](/publication/2024-09-01-imagery-health) <br>
 
 *5 Jan*: 👋 Gergo is officially joining the lab! We're thrilled to have him on board and looking forward to expanding our language modelling projects together. <br>
 
@@ -27,6 +29,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 *1 Jan*: 🎂 The BPP Lab turns five today! Five years of curiosity-driven science, and a year of transitions: grants winding down, familiar faces moving on, new ones arriving. A lab is always in motion. Here's to what has been, and to everything still to come. <br>
 
 ### 2025
+
+*31 Dec*: 👍 Thumbs up for this great collaboration led by Sophie. Check out one of the many papers in the pipeline! [Check it out](/publication/2025-12-01-HFS-secondary-hyperalgesia) <br>
 
 *15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days, catching up on the latest science and life events of close friends and collaborators. Science is better when it's personal! <br>
 
