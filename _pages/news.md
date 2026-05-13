@@ -7,6 +7,15 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2026
+<!-- Nadia starts her internship -->
+
+*13 May*: 🤫 Excitement brewing in the lab, someone's getting invited to an interview... 
+
+*12 May*: 🎲 New project grant submitted today! May the odds be ever in our favour. This one would fund Rebecca's PhD!
+
+*1 May*: 🏁 Huge congratulations to Camilla Eva, who submitted her PhD thesis today!
+
+*23-24 Apr*: ☕ Such a treat to have Natalia Egorova-Brumley visiting in Aarhus! Two days of brilliant conversations on pain and sleep.
 
 *25 Mar*: 🧠 Leah's paper on the embodied dimension of the wandering mind is now published in *PNAS*! This one carries a special meaning for everyone involved and honours the spirit of curiosity and collaboration that brought it to life. [Check it out](/publication/2026-03-25-body-wandering) <br>
 
