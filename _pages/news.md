@@ -7,15 +7,35 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2026
-<!-- Nadia starts her internship -->
+<!-- Nadia and Zinat start their internship -->
+<!-- Alessandra joins the lab -->
+<!-- Asger starts his internship -->
 
-*13 May*: 🤫 Excitement brewing in the lab, someone's getting invited to an interview... 
+<!-- *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis! A huge achievement after years of hard work. Many thanks to the evaluation committee for their time and thoughtful discussion.  -->
 
-*12 May*: 🎲 New project grant submitted today! May the odds be ever in our favour. This one would fund Rebecca's PhD!
+<!-- 🥳 Congratulations to Ashley, Micah, and the ECG Group on their paper published in Nature Communications! [Check it out]() -->
 
-*1 May*: 🏁 Huge congratulations to Camilla Eva, who submitted her PhD thesis today!
+<!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
 
-*23-24 Apr*: ☕ Such a treat to have Natalia Egorova-Brumley visiting in Aarhus! Two days of brilliant conversations on pain and sleep.
+<!-- 📖 Arthur and Jesper's latest work is now out in Behavior Research Methods. Congratulations on another great ECG-BPP collaboration! [Check it out]()-->
+
+<!--👏 Another great milestone for the lab! Congratulations to Jesper and Alex on their new paper published in Pain. [Check it out]() -->
+
+<!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
+
+*1 Jul*: 👋 A warm welcome to Fatemeh, who has joined the lab! She'll be working with neuroimaging data, and we're excited to have her on the team.  <br>
+
+*15-18 Jun*: 🚉 Keeping up with our pilots in Leipzig! Great to see our latest project moving forward. <br>
+
+*17-22 May*: 🏡 Francesca is at the Pain Mechanisms and Therapeutics in Verona, Italy! A wonderful opportunity to feel at home, both geographically and scientifically.  <br>
+
+*13 May*: 🤫 Excitement brewing in the lab, someone's getting invited to an interview...  <br>
+
+*12 May*: 🎲 New project grant submitted today! May the odds be ever in our favour. This one would fund Rebecca's PhD!  <br>
+
+*1 May*: 🏁 Huge congratulations to Camilla Eva, who submitted her PhD thesis today!  <br>
+
+*23-24 Apr*: ☕ Such a treat to have Natalia Egorova-Brumley visiting in Aarhus! Two days of brilliant conversations on pain and sleep.  <br>
 
 *25 Mar*: 🧠 Leah's paper on the embodied dimension of the wandering mind is now published in *PNAS*! This one carries a special meaning for everyone involved and honours the spirit of curiosity and collaboration that brought it to life. [Check it out](/publication/2026-03-25-body-wandering) <br>
 
