@@ -14,7 +14,4 @@ We appreciate everyone who has contributed to our lab, whether through a brief i
 
 Thanks to alumni:  Arthur S. Courtin, Jesper Fischer Ehmsen, Alexandra G. Mitchell, Camilla E. Krænge, Camilla Sardeto Deolindo, Ellen Lund Schaldemose.
 
-Thanks to students and interns: Berran Aydoğan, Cyprien Simonnet, Anouk Bollmann, Anastasia S. Weakly, Johanne S. Rejsenhus, Maelle Debock, Małgorzata Basińska, Daniel E. Christensen, Nicole Dwenger, Kristian S. Mengel-Niemann, Emma R. Olsen, Thea R. Sloth, Signe K. Brødbæk, Jonas Kassow, Sofie Jacobsen, Anna V. Stuckert, Melina Vejlø, Pernille D. Pedersen, Lena Hansen.
-
-<!-- Elysius -->
-<!-- Fatemeh -->
+Thanks to students and interns: Elisius Pedersen, Sára Anna Szabó, Berran Aydoğan, Cyprien Simonnet, Anouk Bollmann, Anastasia S. Weakly, Johanne S. Rejsenhus, Maelle Debock, Małgorzata Basińska, Patrik Molnar, Daniel E. Christensen, Nicole Dwenger, Kristian S. Mengel-Niemann, Emma R. Olsen, Thea R. Sloth, Signe K. Brødbæk, Jonas Kassow, Sofie Jacobsen, Anna V. Stuckert, Melina Vejlø, Pernille D. Pedersen, Lena Hansen.
