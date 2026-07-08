@@ -7,9 +7,11 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2026
-<!-- Nadia and Zinat start their internship -->
-<!-- Alessandra joins the lab -->
-<!-- Asger starts his internship -->
+<!-- 👋 Welcome Nadia and Zinat from Linguistics! They will collaborate with Rebecca and Gergo on exciting projects combining semantic analysis with mental health data. -->
+
+<!-- 🧠 Welcome Alessandra, who is joining the lab to support our ongoing EEG projects. -->
+
+<!-- 👋 New faces in the lab! Asger, a Cognitive Science student, is joining us for his internship and working on a "spicy" EEG project. The reason? Capsaicin is involved! -->
 
 <!-- *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis! A huge achievement after years of hard work. Many thanks to the evaluation committee for their time and thoughtful discussion.  -->
 
