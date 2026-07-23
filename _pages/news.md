@@ -25,6 +25,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
 
+*22 Jul*: 🫀 A null result worth shouting about! Leah's paper is out in Nature Mental Health: interoceptive performance, measured across cardiac and respiratory axes in a large community sample, showed no relationship with mental health symptoms! [Check it out](/publication/2026-07-22-intero-mental-health) <br>
+
 *1 Jul*: 👋 A warm welcome to Fatemeh, who has joined the lab! She'll be working with neuroimaging data, and we're excited to have her on the team.  <br>
 
 *15-18 Jun*: 🚉 Keeping up with our pilots in Leipzig! Great to see our latest project moving forward. <br>
