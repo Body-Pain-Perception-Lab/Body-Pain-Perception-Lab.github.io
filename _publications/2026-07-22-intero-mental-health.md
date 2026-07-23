@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-07-22-intero-mental-health
 excerpt:
-date: 2026-02-04
+date: 2026-07-22
 venue: 'Nature Mental Health'
 ---
 
