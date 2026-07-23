@@ -2,16 +2,16 @@
 title: "Long-term variability in visual processing versus perceptual stability"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-03-31-headcast-visual
+permalink: /publication/2026-06-10-headcast-visual
 excerpt:
-date: 2026-03-31
+date: 2026-06-10
 venue: 'eNeuro'
 ---
 
 <!--more-->
 
 📄 [Publisher's version](https://www.eneuro.org/content/13/6/ENEURO.0344-25.2026) <br>
-🐙 [Data](https://www.eneuro.org/content/13/6/ENEURO.0344-25.2026/tab-figures-data) <br>
+🐙 [Data and code](https://github.com/laurabpaulsen/VisualVariability) <br>
 
 ## Authors
 Laura Bock Paulsen, Laura Masaracchia, Francesca Fardo, Christine Ahrends, Diego Vidaurre

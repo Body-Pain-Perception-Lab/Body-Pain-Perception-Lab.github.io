@@ -31,6 +31,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *15-18 Jun*: 🚉 Keeping up with our pilots in Leipzig! Great to see our latest project moving forward. <br>
 
+*10 Jun*: 👁️ New paper in eNeuro, led by Laura, in collaboration with Diego Vidaurre's group! Eight MEG sessions, one participant, six months: brain responses to identical images drift over time, but object categorisation stays put. Replicated in the open THINGS-MEG data too. [Check it out](/publication/2026-06-10-headcast-visual)
+
 *17-22 May*: 🏡 Francesca is at the Pain Mechanisms and Therapeutics in Verona, Italy! A wonderful opportunity to feel at home, both geographically and scientifically.  <br>
 
 *13 May*: 🤫 Excitement brewing in the lab, someone's getting invited to an interview...  <br>
