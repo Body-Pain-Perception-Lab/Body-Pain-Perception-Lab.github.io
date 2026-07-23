@@ -211,7 +211,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *31 Jan*:  🇳🇱 Most team members submitted poster abstracts to IASP today. Looking forward to attending this conference in Amsterdam this August! <br>
 
-*10 Jan*: 📢 Preprint alert! The research Rebecca started during her bachelor thesis has now developed into a manuscript ready for submission. Impressive work! [Check it out](/publication/2024-10-01-pain-health) <br>
+*10 Jan*: 📢 Preprint alert! The research Rebecca started during her bachelor thesis has now developed into a manuscript ready for submission. Impressive work! [Check it out](/publication/2025-07-13-pain-health) <br>
 
 *2 Jan*: 🎉 This landmark study on paradoxical heat sensation in individuals with pain-related chronic conditions is now featured in the January issue of *Pain*. Huge congratulations to everyone involved! [Check it out](/publication/2024-01-01-clinical-phs) <br>
 
