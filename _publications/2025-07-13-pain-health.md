@@ -11,7 +11,7 @@ venue: 'Anxiety, Stress, & Coping'
 <!--more-->
 
 📄 [Publisher's version](https://doi.org/10.1080/10615806.2025.2534858) <br>
-
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/MentalHealth-ThermalPain) <br>
 ## Authors
 Rebecca A Böhme, Leah Banellis, Melina Vejlø, Micah G. Allen, Francesca Fardo
 
