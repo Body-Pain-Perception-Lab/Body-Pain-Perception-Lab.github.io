@@ -69,6 +69,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days, catching up on the latest science and life events of close friends and collaborators. Science is better when there are also personal connections! <br>
 
+*5 Dec*: New paper in Journal of Experimental Psychology: Learning, Memory, and Cognition, led by Astrid Lund and in collaboration with Steve Fleming! Preregistered, performance-matched, three domains: knowing how well you're doing generalises across vision, episodic memory, and semantic memory, though not as neatly as you might expect. [Check it out](/publication/2025-05-12-multi-meta)
+
 *4 Dec*: 👋 Leaving do for Alex. Four years as a postdoc in the lab is no small feat, and we are so grateful for everything she has brought to our team. As Alex herself says, endings and new beginnings are often bittersweet, but we're glad she's moving on to a new position very close by. This isn't goodbye, just see you soon! <br>
 
 *1 Dec*: ✍️ The pre-Christmas grant writing sprint officially starts for Francesca. May the words flow and the deadlines feel far away (they're not). <br>
