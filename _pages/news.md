@@ -7,7 +7,7 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2026
-<!-- 👋 Welcome Nadia and Zinat from Linguistics! They will collaborate with Rebecca and Gergo on exciting projects combining semantic analysis with mental health data. -->
+<!-- 👋 Welcome Zinat! She's an intern from Linguistics and she will collaborate with Rebecca and Gergo on exciting projects combining semantic analysis with mental health data. -->
 
 <!-- 🧠 Welcome Alessandra, who is joining the lab to support our ongoing EEG projects. -->
 
@@ -24,6 +24,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 <!--👏 Another great milestone for the lab! Congratulations to Jesper and Alex on their new paper published in Pain. [Check it out]() -->
 
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
+
+*7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work!
 
 *22 Jul*: 🫀 A null result worth shouting about! Leah's paper is out in Nature Mental Health: interoceptive performance, measured across cardiac and respiratory axes in a large community sample, showed no relationship with mental health symptoms! [Check it out](/publication/2026-07-22-intero-mental-health) <br>
 
