@@ -23,9 +23,9 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
 
-<!-- *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis! A huge achievement after years of hard work. Many thanks to the evaluation committee for their time and thoughtful discussion!  -->
+*11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis today! Years of hard work and persistence, all coming together in one wonderful defence. Heartfelt thanks to the evaluation committee for such a rich and thoughtful discussion. We couldn't be prouder! <br>
 
-*7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work!
+*7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work! <br>
 
 *22 Jul*: 🫀 A null result worth shouting about! Leah's paper is out in Nature Mental Health: interoceptive performance, measured across cardiac and respiratory axes in a large community sample, showed no relationship with mental health symptoms! [Check it out](/publication/2026-07-22-intero-mental-health) <br>
 
