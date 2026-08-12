@@ -33,7 +33,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *15-18 Jun*: 🚉 Keeping up with our pilots in Leipzig! Great to see our latest project moving forward. <br>
 
-*10 Jun*: 👁️ New paper in eNeuro, led by Laura Paulsen, in collaboration with Diego Vidaurre's group! Eight MEG sessions, one participant, six months: brain responses to identical images drift over time, but object categorisation holds steady. Replicated in the open THINGS-MEG data too. [Check it out](/publication/2026-06-10-headcast-visual)
+*10 Jun*: 👁️ New paper in eNeuro, led by Laura Paulsen, in collaboration with Diego Vidaurre's group! Eight MEG sessions, one participant, six months: brain responses to identical images drift over time, but object categorisation holds steady. Replicated in the open THINGS-MEG data too. [Check it out](/publication/2026-06-10-headcast-visual) <br>
 
 *17-22 May*: 🏡 Francesca is at the Pain Mechanisms and Therapeutics in Verona, Italy! A wonderful opportunity to feel at home, both geographically and scientifically.  <br>
 
@@ -69,7 +69,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days, catching up on the latest science and life events of close friends and collaborators. Science is better when there are also personal connections! <br>
 
-*5 Dec*: 📖 New paper in Journal of Experimental Psychology: Learning, Memory, and Cognition, led by Astrid Lund and in collaboration with Steve Fleming! Preregistered, performance-matched, three domains: knowing how well you're doing generalises across vision, episodic memory, and semantic memory, though not as neatly as you might expect. [Check it out](/publication/2025-05-12-multi-meta)
+*5 Dec*: 📖 New paper in Journal of Experimental Psychology: Learning, Memory, and Cognition, led by Astrid Lund and in collaboration with Steve Fleming! Preregistered, performance-matched, three domains: knowing how well you're doing generalises across vision, episodic memory, and semantic memory, though not as neatly as you might expect. [Check it out](/publication/2025-05-12-multi-meta) <br>
 
 *4 Dec*: 👋 Leaving do for Alex. Four years as a postdoc in the lab is no small feat, and we are so grateful for everything she has brought to our team. As Alex herself says, endings and new beginnings are often bittersweet, but we're glad she's moving on to a new position very close by. This isn't goodbye, just see you soon! <br>
 
@@ -105,11 +105,11 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *10 Jun*: 🗣️ Francesca is presenting our latest work at Neuroscience Day at Aarhus University! The theme is "Pain and Placebo," and we have plenty of awesome findings to share with you! <br>
 
-*24-26 Apr*: 🌍 The BPP lab is at EFIC in Lyon, with two fantastic topical workshops led by Alex and Arthur! We're all excited to share our latest findings on how temperature and pain is represented in the brain, and on the role of volatility in pain learning!
+*24-26 Apr*: 🌍 The BPP lab is at EFIC in Lyon, with two fantastic topical workshops led by Alex and Arthur! We're all excited to share our latest findings on how temperature and pain is represented in the brain, and on the role of volatility in pain learning! <br>
 
-*28 Mar*: 🚀 Huge congrats to ECG postdoc Leah for landing her very own 3-year postdoc grant from the Lundbeck Foundation! She'll now be kicking off exciting research on brain-body interactions, supported by labs in Denmark and the US. Way to go, Leah!
+*28 Mar*: 🚀 Huge congrats to ECG postdoc Leah for landing her very own 3-year postdoc grant from the Lundbeck Foundation! She'll now be kicking off exciting research on brain-body interactions, supported by labs in Denmark and the US. Way to go, Leah! <br>
 
-*24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months!
+*24 Mar*: 👋 Welcome, Cyprien! He's a master’s student in neuroscience at Paul Sabatier University in Toulouse, who will be interning with us for the next two months! <br>
 
 *21 Mar*: 💬 We had a great time hosting Cecile de Vos from Rotterdam Uni today! She visited our lab to chat about neuromodulation, spinal cord stimulation, and all the exciting research we’ve been working on lately. Always a pleasure to have such engaging and insightful conversations! <br>
 
@@ -119,7 +119,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br>
 
-*13 Mar:* 🎙 Francesca joined the *Science Podcast* to discuss how the brain constructs the experience of pain, hosted by the brilliantly insightful Sarah Crespi! Check out the episode [here](https://www.science.org/content/podcast/why-sign-language-could-be-crucial-kids-cochlear-implants-studying-illusion-pain-and) and jump to 26:44 for an engaging breakdown of our key findings, recently published in *Science Advances*. It was an honor to talk about our research with someone whose depth of understanding made the conversation so rewarding.
+*13 Mar:* 🎙 Francesca joined the *Science Podcast* to discuss how the brain constructs the experience of pain, hosted by the brilliantly insightful Sarah Crespi! Check out the episode [here](https://www.science.org/content/podcast/why-sign-language-could-be-crucial-kids-cochlear-implants-studying-illusion-pain-and) and jump to 26:44 for an engaging breakdown of our key findings, recently published in *Science Advances*. It was an honor to talk about our research with someone whose depth of understanding made the conversation so rewarding. <br>
 
 *12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out](https://www.science.org/doi/10.1126/sciadv.adq0261) <br>
 
@@ -157,7 +157,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *19 Nov*: 👁 The BPP Lab had the pleasure of attending a talk by Ole Jensen, visiting from Oxford University. A fantastic example of how to do proper cognitive neuroscience! <br>
 
-*8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974) for an insightful conversation!
+*8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974) for an insightful conversation! <br>
 
 *25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wondering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
 
@@ -185,19 +185,19 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. Francesca and Micah are excited to attend the FENS Kavli Network event! <br>
 
-*22 May*: ❓ Why does cold sometimes feel warm? Dive into our blog post to  understand paradoxical heat sensation! [Check it out](https://communities.springernature.com/posts/why-does-cold-sometimes-feel-warm-using-what-we-see-to-understand-how-we-feel)
+*22 May*: ❓ Why does cold sometimes feel warm? Dive into our blog post to  understand paradoxical heat sensation! [Check it out](https://communities.springernature.com/posts/why-does-cold-sometimes-feel-warm-using-what-we-see-to-understand-how-we-feel) <br>
 
 *1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on how ageing and neuropathy influence thermosensation and pain perception. We’re excited to work with her! <br>
 
 *24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs) <br>
 
-*15 Apr*: 🌟 The lab is attending a talk by interoception research giant Olga Pollatos, who is visiting the ECG lab, together with two of her students! We're inspired!
+*15 Apr*: 🌟 The lab is attending a talk by interoception research giant Olga Pollatos, who is visiting the ECG lab, together with two of her students! We're inspired! <br>
 
 *11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri) <br>
 
 *30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](https://www.biorxiv.org/content/10.1101/2024.03.27.587070v1.full)  <br>
 
-*28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm)
+*28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm) <br>
 
 *15 Mar*: ❄️ Another preprint alert! This time, Camila presents her method for calibrating the thermal grill illusion based on individual sensitivity. Psychophysics is cool! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
 
