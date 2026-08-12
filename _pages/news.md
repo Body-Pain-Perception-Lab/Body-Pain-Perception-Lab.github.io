@@ -23,7 +23,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
 
-*11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis today! Years of hard work and persistence, all coming together in one wonderful defence. Heartfelt thanks to the evaluation committee for such a rich and thoughtful discussion. We couldn't be prouder! <br>
+*11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis today! Years of hard work and persistence, all coming together in one wonderful defence. Heartfelt thanks to the evaluation committee for such a thoughtful discussion. <br>
 
 *7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work! <br>
 
