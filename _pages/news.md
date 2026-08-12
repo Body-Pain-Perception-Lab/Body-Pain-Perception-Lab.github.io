@@ -13,8 +13,6 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 👋 New faces in the lab! Asger, a Cognitive Science student, is joining us for his internship and working on a "spicy" EEG project. The reason? Capsaicin is involved! -->
 
-<!-- *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis! A huge achievement after years of hard work. Many thanks to the evaluation committee for their time and thoughtful discussion!  -->
-
 <!-- 🥳 Congratulations to Ashley, Micah, and the ECG Group on their paper published in Nature Communications! [Check it out]() -->
 
 <!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
@@ -24,6 +22,8 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 <!--👏 Another great milestone for the lab! Congratulations to Jesper and Alex on their new paper published in Pain. [Check it out]() -->
 
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
+
+<!-- *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis! A huge achievement after years of hard work. Many thanks to the evaluation committee for their time and thoughtful discussion!  -->
 
 *7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work!
 
