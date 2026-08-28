@@ -17,13 +17,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
 
-<!-- 📖 Arthur and Jesper's latest work is now out in Behavior Research Methods. Congratulations on another great ECG-BPP collaboration! [Check it out]()-->
-
 <!--👏 Another great milestone for the lab! Congratulations to Jesper and Alex on their new paper published in Pain. [Check it out]() -->
 
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
 
 *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis today! Years of hard work and persistence, all coming together in one wonderful defence. Heartfelt thanks to the evaluation committee for such a thoughtful discussion. <br>
+
+*8 Aug*: 📖 Arthur and Jesper's latest work is out in Behavior Research Methods! Hierarchical Bayesian models for the Heart Rate Discrimination and Respiratory Resistance Sensitivity tasks, with open Stan code, a brms tutorial and a Shiny app for sample size justification. Congratulations on another great ECG–BPP collaboration! [Check it out](/publication/2026-08-07-bayes-intero) <br>
 
 *7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work! <br>
 
@@ -93,7 +93,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *2 Sep*: 👋 Welcome, Berran! They're joining the lab for a 6-month internship to investigate how large language models can help us understand conversations around mental health and chronic pain! <br>
 
-*1 Sep*: 🚨 New preprint from Arthur (with Jesper, Leah, Francesca & Micah)! We show how hierarchical Bayesian models can make psychophysics more powerful, efficient, and accessible; with code, tutorials, and even a Shiny app to help researchers get started. [Check it out](/publication/2025-09-01-bayes-intero) <br>
+*1 Sep*: 🚨 New preprint from Arthur (with Jesper, Leah, Francesca & Micah)! We show how hierarchical Bayesian models can make psychophysics more powerful, efficient, and accessible; with code, tutorials, and even a Shiny app to help researchers get started. [Check it out](/publication/2026-08-07-bayes-intero) <br>
 
 *29 Aug*: 🔥 Francesca is presenting at the NeuroTech Symposium in Lausanne! She's sharing some “hot” and “cool” neuroimaging results on how the brain encodes temperature information. Thanks to Marzia for the invite! <br>
 
