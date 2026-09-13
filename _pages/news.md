@@ -7,9 +7,7 @@ permalink: /news/
 Welcome to the news section! Here, we share updates, publications, and exciting developments from our lab.  
 
 ### 2026
-<!-- 👋 Welcome Zinat! She's an intern from Linguistics and she will collaborate with Rebecca and Gergo on exciting projects combining semantic analysis with mental health data. -->
 
-<!-- 🧠 Welcome Alessandra, who is joining the lab to support our ongoing EEG projects. -->
 
 <!-- 👋 New faces in the lab! Asger, a Cognitive Science student, is joining us for his internship and working on a "spicy" EEG project. The reason? Capsaicin is involved! -->
 
@@ -17,9 +15,15 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
 
-<!--👏 Another great milestone for the lab! Congratulations to Jesper and Alex on their new paper published in Pain. [Check it out]() -->
-
 <!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
+
+*14 Sep*: 🧠 A warm welcome to Alessandra, who joins the lab this month to work on our ongoing EEG projects. Great to have you with us! <br>
+
+*7 Sep*: 👋 Welcome Zinat! She's an intern from Linguistics and she will collaborate with Rebecca and Gergo on exciting projects combining semantic analysis with mental health data. <br>
+
+*31 Aug - 4 Sep*: ☀️ Francesca and Micah are at the Adriatica summer school in Pescara! A week of inspiring science, sharp questions, great company and (not least) Italian summer weather and food. Thank you to the organisers for having us! <br>
+
+*27 Aug*: 👏 Out now in PAIN: Jesper and Alex separate "true" from "unsure" perceivers of paradoxical heat sensation, using response times and confidence to model the phenomenon across the lifespan. Congratulations to the whole team! [Check it out](/publication/2026-08-27-ageing-phs) <br>
 
 *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis today! Years of hard work and persistence, all coming together in one wonderful defence. Heartfelt thanks to the evaluation committee for such a thoughtful discussion. <br>
 
