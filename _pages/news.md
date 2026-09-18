@@ -8,14 +8,13 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 ### 2026
 
-
 <!-- 👋 New faces in the lab! Asger, a Cognitive Science student, is joining us for his internship and working on a "spicy" EEG project. The reason? Capsaicin is involved! -->
 
 <!-- 🥳 Congratulations to Ashley, Micah, and the ECG Group on their paper published in Nature Communications! [Check it out]() -->
 
 <!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
 
-<!-- 🎊 Exciting news! Camilla and the BPP Lab team have published their latest work in Psychology & Aging. Congratulations to everyone involved! [Check it out]() -->
+*18 Sep*: 🎊 New paper out in Psychology & Aging! Led by Camilla, this work looks at how thermosensory decision-making changes across the lifespan. Congratulations to everyone involved! [Check it out](/publication/2026-09-18-ageing-ddm) <br>
 
 *14 Sep*: 🧠 A warm welcome to Alessandra, who joins the lab this month to work on our ongoing EEG projects. Great to have you with us! <br>
 
