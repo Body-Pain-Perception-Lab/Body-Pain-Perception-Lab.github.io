@@ -14,7 +14,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
 
-*2 Oct*: 🌟 What a week! Every day brought a new achievement from someone in the lab. More on what it's all about in due time. For now: here's to every one of us, and to a team that keeps raising the bar!
+*2 Oct*: 🌟 What a week! Every day brought a new achievement from someone in the lab. More on what it's all about in due time. For now: here's to every one of us, and to a team that keeps raising the bar! <br>
 
 *18 Sep*: 🎊 New paper out in Psychology & Aging! Led by Camilla, this work looks at how thermosensory decision-making changes across the lifespan. Congratulations to everyone involved! [Check it out](/publication/2026-09-18-ageing-ddm) <br>
 
