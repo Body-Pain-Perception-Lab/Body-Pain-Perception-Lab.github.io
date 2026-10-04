@@ -164,7 +164,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974) for an insightful conversation! <br>
 
-*25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wondering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
+*25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wandering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
 
 *22 Oct*: 🇩🇰 For the next two days, Rebecca is attending the D3A Conference (Danish Digitalization, Data Science, and AI) in Nyborg. Looking forward to the insights she brings back! <br>
 
