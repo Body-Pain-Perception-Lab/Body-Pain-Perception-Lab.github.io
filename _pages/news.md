@@ -12,6 +12,10 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 <!-- 🎉 A new study from Arthur and the BPP Lab team is published in The Journal of Pain. Congratulations to everyone involved! [Check it out]() -->
 
+*23 Oct*: 🏆 Word is out! Congratulations to Francesca for receiving a DFF Research Project 1 grant from the Independent Research Fund Denmark! Starting in 2027, the project will focus on the patient's perspective on pain, from the questions people ask AI to how their experiences can shape pain assessment. <br>
+
+*23 Oct*: 🏆 And there's more! Congratulations to Micah for receiving a DFF Research Project 1 grant for DynaBody! The project will investigate body-wandering, those moments when our thoughts turn to the body, combining everyday experience sampling, breathing manipulations and EEG to understand how bodily sensations become part of conscious thought. <br>
+
 *7 Oct*: 🎂 Happy birthday to our research center! Francesca gave an invited lecture at CFIN’s 25th anniversary, “A Question of Degrees”: part overview of pain neuroscience at the centre, part reflection on an academic journey whose every detour led back to CFIN. A day to celebrate the people and research that have shaped the centre. And to look forward to its next 25 years!  <br>
 
 *2 Oct*: 🌟 What a week! Every day brought a new achievement from someone in the lab. More on what it's all about in due time. For now: here's to every one of us, and to a team that keeps raising the bar! <br>
