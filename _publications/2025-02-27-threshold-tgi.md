@@ -12,8 +12,8 @@ venue: 'The Journal of Pain'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.sciencedirect.com/science/article/abs/pii/S1526590024007107) <br>
-🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/tgi-thresholding)
+📄 [Publisher's version](https://www.sciencedirect.com/science/article/abs/pii/S1526590024007107){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/tgi-thresholding){:target="_blank" rel="noopener"}
 
 ## Authors
 Camila Sardeto Deolindo, Jesper Fischer Ehmsen, Arthur S. Courtin, Alexandra G. Mitchell, Camilla E. Kraenge, Niia Nikolova, Micah G. Allen, Francesca Fardo

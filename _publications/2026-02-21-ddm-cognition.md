@@ -10,8 +10,8 @@ venue: 'Cognition'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.sciencedirect.com/science/article/pii/S0010027726000557?via%3Dihub) <br>
-🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/thermal-evidence-accumulation) <br>
+📄 [Publisher's version](https://www.sciencedirect.com/science/article/pii/S0010027726000557?via%3Dihub){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/thermal-evidence-accumulation){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Camilla E. Krænge, Jesper Fischer Ehmsen, Arthur S. Courtin, Malthe Brændholt, Micah G. Allen, Francesca Fardo

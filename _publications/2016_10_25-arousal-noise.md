@@ -11,7 +11,7 @@ venue: 'Elife'
 
 <!--more-->
 
-📄 [Publisher's version](https://elifesciences.org/articles/18103)
+📄 [Publisher's version](https://elifesciences.org/articles/18103){:target="_blank" rel="noopener"}
 
 ## Authors
 Micah Allen, Darya Frank, Dietrich Samuel Schwarzkopf, Francesca Fardo, Joel S. Winston, Tobias U. Hauser, Geraint Rees

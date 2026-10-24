@@ -10,8 +10,8 @@ venue: 'Nature Mental Health'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.nature.com/articles/s44220-026-00688-4) <br>
-🐙 [Data and code](https://github.com/embodied-computation-group/InteroMentalHealth) <br>
+📄 [Publisher's version](https://www.nature.com/articles/s44220-026-00688-4){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/embodied-computation-group/InteroMentalHealth){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Leah Banellis, Niia Nikolova, Jesper Fischer Ehmsen, Arthur S. Courtin, Melina Vejlø, Ashley Tyrer, Rebecca A. Böhme, Francesco Bavato, Kelly Hoogervorst, Francesca Fardo, Micah G. Allen

@@ -10,8 +10,8 @@ venue: 'PNAS'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.pnas.org/doi/10.1073/pnas.2520822123) <br>
-🐙 [Data and code](https://github.com/embodied-computation-group/body_wandering_CCA) <br>
+📄 [Publisher's version](https://www.pnas.org/doi/10.1073/pnas.2520822123){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/embodied-computation-group/body_wandering_CCA){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Leah Banellis, Niia Nikolova, Malthe Brændholdt, Melina Vejlø, Francesca Fardo, Jonathan Smallwood, Micah G Allen

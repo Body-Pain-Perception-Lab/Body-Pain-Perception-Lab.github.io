@@ -10,8 +10,8 @@ venue: 'Psychology & Aging'
 
 <!--more-->
 
-📄 [Publisher's version](https://doi.org/10.1037/pag0001022) <br>
-🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/thermal-evidence-accumulation-aging) <br>
+📄 [Publisher's version](https://doi.org/10.1037/pag0001022){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/thermal-evidence-accumulation-aging){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Camilla E. Krænge, Alexandra G. Mitchell, Jesper F. Ehmsen, Arthur S. Courtin, Francesca Fardo

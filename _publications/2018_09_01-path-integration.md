@@ -11,7 +11,7 @@ venue: 'Cognition'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301501)
+📄 [Publisher's version](https://www.sciencedirect.com/science/article/abs/pii/S0010027718301501){:target="_blank" rel="noopener"}
 
 ## Authors
 Francesca Fardo, Brianna Beck, Tony Cheng, Patrick Haggard

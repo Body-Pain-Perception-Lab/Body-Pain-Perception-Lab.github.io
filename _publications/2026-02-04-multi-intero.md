@@ -10,8 +10,8 @@ venue: 'Communications Psychology'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.nature.com/articles/s44271-026-00404-z) <br>
-🐙 [Data and code](https://github.com/embodied-computation-group/multi_intero) <br>
+📄 [Publisher's version](https://www.nature.com/articles/s44271-026-00404-z){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/embodied-computation-group/multi_intero){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Leah Banellis, Niia Nikolova, Jesper Fischer Ehmsen, Arthur S. Courtin, Melina Vejlø, Ashley Tyrer, Rebecca A. Böhme, Francesca Fardo, Micah G. Allen

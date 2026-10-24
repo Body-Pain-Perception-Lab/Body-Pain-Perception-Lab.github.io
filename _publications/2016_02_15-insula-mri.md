@@ -11,7 +11,7 @@ venue: 'Neuroimage'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.sciencedirect.com/science/article/pii/S1053811915010526)
+📄 [Publisher's version](https://www.sciencedirect.com/science/article/pii/S1053811915010526){:target="_blank" rel="noopener"}
 
 ## Authors
 Micah G. Allen, Francesca Fardo, Martin J. Dietz, Hauke Hillebrandt, Karl J. Friston, Geraint Rees, and Andreas Roepstorff.

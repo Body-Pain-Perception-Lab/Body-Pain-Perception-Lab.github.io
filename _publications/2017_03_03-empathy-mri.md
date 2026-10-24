@@ -11,7 +11,7 @@ venue: 'Scientific Reports'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.nature.com/articles/srep43316)
+📄 [Publisher's version](https://www.nature.com/articles/srep43316){:target="_blank" rel="noopener"}
 
 ## Authors
 Micah Allen, Darya Frank, James C. Glen, Francesca Fardo, Martina F. Callaghan, Geraint Rees

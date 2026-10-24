@@ -10,8 +10,8 @@ venue: 'Science Advances'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.science.org/doi/10.1126/sciadv.adq0261) <br>
-🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/Thermal-Pain-Learning) <br>
+📄 [Publisher's version](https://www.science.org/doi/10.1126/sciadv.adq0261){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/Thermal-Pain-Learning){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Jesper Fischer Ehmsen, Niia Nikolova, Daniel Elmstrøm Christensen, Leah Banellis, Rebecca A. Böhme, Malthe Brændholt, Arthur S Courtin, Camilla E Kraenge, Alexandra G Mitchell, Camila Sardeto Deolindo, Christian Steenkjaer, Melina Vejlø, Christoph Mathys, Micah G Allen, Francesca Fardo

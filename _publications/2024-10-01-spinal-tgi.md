@@ -11,8 +11,8 @@ venue: 'Pain'
 ---
 <!--more-->
 
-📄 [Publisher's version](https://journals.lww.com/pain/abstract/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1) <br>
-🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/tgi-spinal)
+📄 [Publisher's version](https://journals.lww.com/pain/abstract/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/tgi-spinal){:target="_blank" rel="noopener"}
 
 ## Authors
 Alexandra G. Mitchell, Jesper Fischer Ehmsen, Daniel Elmstrøm Christensen, Anna Villaume Stuckert, Patrick Haggard, Francesca Fardo

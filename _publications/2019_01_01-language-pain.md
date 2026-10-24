@@ -11,7 +11,7 @@ venue: 'Language and Cognition'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.cambridge.org/core/journals/language-and-cognition/article/when-words-burn-language-processing-differentially-modulates-pain-perception-in-typical-and-chronic-pain-populations/47904639CB1E7B751411F8FE365720ED)
+📄 [Publisher's version](https://www.cambridge.org/core/journals/language-and-cognition/article/when-words-burn-language-processing-differentially-modulates-pain-perception-in-typical-and-chronic-pain-populations/47904639CB1E7B751411F8FE365720ED){:target="_blank" rel="noopener"}
 
 ## Authors
 Nikola Vukovic, Francesca Fardo, Yury Shtyrov

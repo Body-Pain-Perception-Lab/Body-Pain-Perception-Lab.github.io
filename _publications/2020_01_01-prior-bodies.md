@@ -11,7 +11,7 @@ venue: 'Behavioral and Brain Sciences'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/thinking-through-prior-bodies-autonomic-uncertainty-and-interoceptive-selfinference/131DD3A5A01DE226099AAE7A64302A7F)
+📄 [Publisher's version](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/thinking-through-prior-bodies-autonomic-uncertainty-and-interoceptive-selfinference/131DD3A5A01DE226099AAE7A64302A7F){:target="_blank" rel="noopener"}
 
 ## Authors
 Micah G. Allen, Nicolas Legrand, Camile Maria Costa Correa, Francesca Fardo

@@ -10,7 +10,7 @@ venue: 'Journal of Experimental Psychology: Learning, Memory, and Cognition'
 
 <!--more-->
 
-📄 [Publisher's version](https://psycnet.apa.org/record/2026-15472-001) <br>
+📄 [Publisher's version](https://psycnet.apa.org/record/2026-15472-001){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Astrid E. Lund, Camile Correa, Francesca Fardo, Stephen Fleming, Micah G. Allen

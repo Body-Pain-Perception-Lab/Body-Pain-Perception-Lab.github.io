@@ -10,7 +10,7 @@ venue: 'PsyArXiv'
 
 <!--more-->
 
-📄 [Preprinted version](https://osf.io/2gwky/download) <br>
+📄 [Preprinted version](https://osf.io/2gwky/download){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Kelly Hoogervorst, Leah Banellis, Francesca Fardo, Kai Xue, Dobromir Rahnev, Micah G Allen

@@ -10,7 +10,7 @@ venue: 'BioRxiv'
 
 <!--more-->
 
-📄 [Preprinted version](https://www.biorxiv.org/content/10.1101/2025.09.22.677851v1) <br>
+📄 [Preprinted version](https://www.biorxiv.org/content/10.1101/2025.09.22.677851v1){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Arthur S. Courtin, Camilla E. Krænge, Alexandra G. Mitchell, Jesper F. Ehmsen, Peter K. Brask-Thomsen, Sandra S Gylfadottir, Francesca Fardo

@@ -10,7 +10,7 @@ venue: 'Pain Reports'
 
 <!--more-->
 
-📄 [Publisher's version](https://journals.lww.com/painrpts/fulltext/2025/12000/neural_correlates_underlying_high_frequency.8.aspx?context=latestarticles) <br>
+📄 [Publisher's version](https://journals.lww.com/painrpts/fulltext/2025/12000/neural_correlates_underlying_high_frequency.8.aspx?context=latestarticles){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Sophie Clarke, Vishvarani Wanigasekera, Richard Rogers, Ombretta Caspani, Andre Mouraux, Francesca Fardo, Nanna B. Finnerup, Rolf-Detlef Treede, Irene Tracey. 

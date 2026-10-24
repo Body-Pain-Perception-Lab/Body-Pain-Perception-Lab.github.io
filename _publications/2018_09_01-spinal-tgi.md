@@ -11,7 +11,7 @@ venue: 'Annals of Neurology'
 
 <!--more-->
 
-📄 [Publisher's version](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25307)
+📄 [Publisher's version](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25307){:target="_blank" rel="noopener"}
 
 ## Authors
 Francesca Fardo, Nanna B. Finnerup, Patrick Haggard

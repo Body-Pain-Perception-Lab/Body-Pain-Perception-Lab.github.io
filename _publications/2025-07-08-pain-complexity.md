@@ -10,7 +10,7 @@ venue: 'BioRxiv'
 
 <!--more-->
 
-📄 [Preprinted version](https://www.biorxiv.org/content/10.1101/2025.07.04.663180v1) <br>
+📄 [Preprinted version](https://www.biorxiv.org/content/10.1101/2025.07.04.663180v1){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Kora T. Montemagno, Arthur S. Courtin, Dounia Mulders, Francesca Fardo

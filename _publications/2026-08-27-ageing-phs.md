@@ -10,8 +10,8 @@ venue: 'Pain'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.ovid.com/jnls/pain/abstract/10.1097/j.pain.0000000000004094~a-computational-account-of-perceptual-uncertainty-in) <br>
-🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/uncertainty-lifespan-phs) <br>
+📄 [Publisher's version](https://www.ovid.com/jnls/pain/abstract/10.1097/j.pain.0000000000004094~a-computational-account-of-perceptual-uncertainty-in){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/Body-Pain-Perception-Lab/uncertainty-lifespan-phs){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Jesper F. Ehmsen, Alexandra G. Mitchell, Arthur S. Courtin, Camilla E. Krænge, Cyprien Simonnet, Francesca Fardo

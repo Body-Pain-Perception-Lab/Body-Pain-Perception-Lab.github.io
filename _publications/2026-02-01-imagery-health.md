@@ -10,7 +10,7 @@ venue: 'Heliyon'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.cell.com/heliyon/fulltext/S2405-8440(25)02838-5) <br>
+📄 [Publisher's version](https://www.cell.com/heliyon/fulltext/S2405-8440(25){:target="_blank" rel="noopener"}02838-5) <br>
 
 ## Authors
 Timo L Kvamme, Renate Rutiku, Michal Wierzchon, Inga Griskova-Bulanova, Francesca Fardo, Kristian Sandberg, Juha Silvanto

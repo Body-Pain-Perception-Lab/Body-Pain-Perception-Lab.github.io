@@ -10,8 +10,8 @@ venue: 'eNeuro'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.eneuro.org/content/13/6/ENEURO.0344-25.2026) <br>
-🐙 [Data and code](https://github.com/laurabpaulsen/VisualVariability) <br>
+📄 [Publisher's version](https://www.eneuro.org/content/13/6/ENEURO.0344-25.2026){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/laurabpaulsen/VisualVariability){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Laura Bock Paulsen, Laura Masaracchia, Francesca Fardo, Christine Ahrends, Diego Vidaurre

@@ -10,7 +10,7 @@ venue: 'Imaging Neuroscience'
 
 <!--more-->
 
-📄 [Publisher's version](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.149/132805/Supramodal-and-modality-specific-neural) <br>
+📄 [Publisher's version](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.149/132805/Supramodal-and-modality-specific-neural){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Maria Niedernhuber, Francesca Fardo, Micah G. Allen, Tristan Bekinschtein

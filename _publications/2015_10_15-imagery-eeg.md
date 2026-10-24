@@ -11,7 +11,7 @@ venue: 'Neuroimage'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.sciencedirect.com/science/article/pii/S1053811915006175)
+📄 [Publisher's version](https://www.sciencedirect.com/science/article/pii/S1053811915006175){:target="_blank" rel="noopener"}
 
 ## Authors
 Francesca Fardo, Micah G. Allen, Else-Marie Elmholdt Jegindø, Alessandro Angrilli, Andreas Roepstorff

@@ -14,7 +14,7 @@ venue: 'European Journal of Pain'
 
 <!--more-->
 
-📄 [Publisher's version](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.2251)
+📄 [Publisher's version](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ejp.2251){:target="_blank" rel="noopener"}
 
 ## Authors
 Sophie Clarke, Richard Rogers, Vishvarani Wanigasekera, Francesca Fardo, Hossein Pia, Zahra Nochi, Nicolas Macian, Vincent Leray, Nanna Brix Finnerup, Gisèle Pickering, André Mouraux, Andrea Truini, Rolf-Detlef Treede, Luis Garcia-Larrea, Irene Tracey

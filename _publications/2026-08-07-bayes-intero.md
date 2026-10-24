@@ -10,8 +10,8 @@ venue: Behavior Research Methods
 
 <!--more-->
 
-📄 [Publisher's version](https://link.springer.com/article/10.3758/s13428-026-03137-3) <br>
-🐙 [Data and code](https://github.com/embodied-computation-group/hierarchical-interoception) <br>
+📄 [Publisher's version](https://link.springer.com/article/10.3758/s13428-026-03137-3){:target="_blank" rel="noopener"} <br>
+🐙 [Data and code](https://github.com/embodied-computation-group/hierarchical-interoception){:target="_blank" rel="noopener"} <br>
 
 ## Authors
 Arthur S. Courtin, Jesper F. Ehmsen, Leah Banellis, Francesca Fardo, Micah G. Allen

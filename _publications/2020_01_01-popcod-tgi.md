@@ -11,7 +11,7 @@ venue: 'Neuroscience & Biobehavioral Reviews'
 
 <!--more-->
 
-📄 [Publisher's version](https://www.sciencedirect.com/science/article/abs/pii/S014976341930702X)
+📄 [Publisher's version](https://www.sciencedirect.com/science/article/abs/pii/S014976341930702X){:target="_blank" rel="noopener"}
 
 ## Authors
 Francesca Fardo, Brianna Beck, Micah G. Allen, Nanna B. Finnerup
