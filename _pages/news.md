@@ -128,9 +128,9 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *16 Mar*: 🔹 Today marks the last official day of Anastasia’s lab rotation! As an NAD-PhD fellow, she has been a fantastic addition to our team. We’ve truly enjoyed working with her over the past few months and look forward to staying in touch as she continues her rotations in other labs throughout the year! <br>
 
-*13 Mar:* 🎙 Francesca joined the *Science Podcast* to discuss how the brain constructs the experience of pain, hosted by the brilliantly insightful Sarah Crespi! Check out the episode [here](https://www.science.org/content/podcast/why-sign-language-could-be-crucial-kids-cochlear-implants-studying-illusion-pain-and) and jump to 26:44 for an engaging breakdown of our key findings, recently published in *Science Advances*. It was an honor to talk about our research with someone whose depth of understanding made the conversation so rewarding. <br>
+*13 Mar:* 🎙 Francesca joined the *Science Podcast* to discuss how the brain constructs the experience of pain, hosted by the brilliantly insightful Sarah Crespi! Check out the episode [here](https://www.science.org/content/podcast/why-sign-language-could-be-crucial-kids-cochlear-implants-studying-illusion-pain-and){:target="_blank" rel="noopener"} and jump to 26:44 for an engaging breakdown of our key findings, recently published in *Science Advances*. It was an honor to talk about our research with someone whose depth of understanding made the conversation so rewarding. <br>
 
-*12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out](https://www.science.org/doi/10.1126/sciadv.adq0261) <br>
+*12 Mar*: 🔥 New "hot" paper published in *Science Advances*: “Thermosensory predictive coding underpins an illusion of pain”. A huge thank you to everyone involved, as this was a massive team effort! [Check it out](https://www.science.org/doi/10.1126/sciadv.adq0261){:target="_blank" rel="noopener"} <br>
 
 *6 Mar*: 📰 We’re gearing up to release some exciting new science! Things are bubbling under the surface, and we can’t wait to share our findings with you soon. Stay tuned! <br>
 
@@ -166,7 +166,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *19 Nov*: 👁 The BPP Lab had the pleasure of attending a talk by Ole Jensen, visiting from Oxford University. A fantastic example of how to do proper cognitive neuroscience! <br>
 
-*8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974) for an insightful conversation! <br>
+*8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974){:target="_blank" rel="noopener"} for an insightful conversation! <br>
 
 *25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wandering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
 
@@ -176,7 +176,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *2 Oct*: 🎉 Welcome, Arthur! Today, he officially starts his postdoc in the BPP Lab, but truth be told, he’s been one of us for a long time already. Excited for this next chapter! <br>
 
-*1 Oct*: 📖 Alex’s latest paper on the thermal grill illusion is featured in the October issue of *Pain*! [Check it out](/publication/2024-10-01-spinal-tgi). We're also grateful for the positive commentary on our work. [Check it out too!](https://journals.lww.com/pain/fulltext/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1#related) <br>
+*1 Oct*: 📖 Alex’s latest paper on the thermal grill illusion is featured in the October issue of *Pain*! [Check it out](/publication/2024-10-01-spinal-tgi). We're also grateful for the positive commentary on our work. [Check it out too!](https://journals.lww.com/pain/fulltext/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1#related){:target="_blank" rel="noopener"} <br>
 
 *9 Sep*: 📊 Arthur and Jesper at the Stan Conference in Oxford! <br>
 
@@ -194,7 +194,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *25 Jun*: 🧠 The ECG and BPP labs are at FENS in Vienna this week! An incredible opportunity to engage with high-quality neuroscience research. Francesca and Micah are excited to attend the FENS Kavli Network event! <br>
 
-*22 May*: ❓ Why does cold sometimes feel warm? Dive into our blog post to  understand paradoxical heat sensation! [Check it out](https://communities.springernature.com/posts/why-does-cold-sometimes-feel-warm-using-what-we-see-to-understand-how-we-feel) <br>
+*22 May*: ❓ Why does cold sometimes feel warm? Dive into our blog post to  understand paradoxical heat sensation! [Check it out](https://communities.springernature.com/posts/why-does-cold-sometimes-feel-warm-using-what-we-see-to-understand-how-we-feel){:target="_blank" rel="noopener"} <br>
 
 *1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on how ageing and neuropathy influence thermosensation and pain perception. We’re excited to work with her! <br>
 
@@ -204,7 +204,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri) <br>
 
-*30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](https://www.biorxiv.org/content/10.1101/2024.03.27.587070v1.full)  <br>
+*30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](https://www.biorxiv.org/content/10.1101/2024.03.27.587070v1.full){:target="_blank" rel="noopener"}  <br>
 
 *28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm) <br>
 
