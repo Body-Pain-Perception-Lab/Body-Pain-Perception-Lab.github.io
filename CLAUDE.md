@@ -56,6 +56,11 @@ People files use numbered prefixes for ordering and include bio, research intere
 
 News updates go in `_pages/news.md` as chronological entries.
 
+Links to external sites, and news links to `/publication/` pages, open in a new tab using a kramdown attribute after the link:
+```markdown
+[Publisher's version](https://example.org/paper){:target="_blank" rel="noopener"}
+```
+
 ## Key Configuration
 
 - `_config.yml` — Jekyll settings, collection definitions, site metadata, plugin list
