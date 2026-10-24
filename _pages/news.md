@@ -20,7 +20,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *2 Oct*: 🌟 What a week! Every day brought a new achievement from someone in the lab. More on what it's all about in due time. For now: here's to every one of us, and to a team that keeps raising the bar! <br>
 
-*18 Sep*: 🎊 New paper out in Psychology & Aging! Led by Camilla, this work looks at how thermosensory decision-making changes across the lifespan. Congratulations to everyone involved! [Check it out](/publication/2026-09-18-ageing-ddm) <br>
+*18 Sep*: 🎊 New paper out in Psychology & Aging! Led by Camilla, this work looks at how thermosensory decision-making changes across the lifespan. Congratulations to everyone involved! [Check it out](/publication/2026-09-18-ageing-ddm){:target="_blank" rel="noopener"} <br>
 
 *14 Sep*: 🧠 A warm welcome to Alessandra and Asger, who have joined the lab to work on our ongoing EEG projects. Great to have you both with us! <br>
 
@@ -28,21 +28,21 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *31 Aug - 4 Sep*: ☀️ Francesca and Micah are at the Adriatica summer school in Pescara! A week of inspiring science, sharp questions, great company and (not least) Italian summer weather and food. Thank you to the organisers for having us! <br>
 
-*27 Aug*: 👏 Out now in PAIN: Jesper and Alex separate "true" from "unsure" perceivers of paradoxical heat sensation, using response times and confidence to model the phenomenon across the lifespan. Congratulations to the whole team! [Check it out](/publication/2026-08-27-ageing-phs) <br>
+*27 Aug*: 👏 Out now in PAIN: Jesper and Alex separate "true" from "unsure" perceivers of paradoxical heat sensation, using response times and confidence to model the phenomenon across the lifespan. Congratulations to the whole team! [Check it out](/publication/2026-08-27-ageing-phs){:target="_blank" rel="noopener"} <br>
 
 *11 Aug*: 🎓 Congratulations to Camilla on successfully defending her PhD thesis today! Years of hard work and persistence, all coming together in one wonderful defence. Heartfelt thanks to the evaluation committee for such a thoughtful discussion. <br>
 
-*8 Aug*: 📖 Arthur and Jesper's latest work is out in Behavior Research Methods! Hierarchical Bayesian models for the Heart Rate Discrimination and Respiratory Resistance Sensitivity tasks, with open Stan code, a brms tutorial and a Shiny app for sample size justification. Congratulations on another great ECG–BPP collaboration! [Check it out](/publication/2026-08-07-bayes-intero) <br>
+*8 Aug*: 📖 Arthur and Jesper's latest work is out in Behavior Research Methods! Hierarchical Bayesian models for the Heart Rate Discrimination and Respiratory Resistance Sensitivity tasks, with open Stan code, a brms tutorial and a Shiny app for sample size justification. Congratulations on another great ECG–BPP collaboration! [Check it out](/publication/2026-08-07-bayes-intero){:target="_blank" rel="noopener"} <br>
 
 *7 Aug*: 🏁 Congratulations to Kora for ticking the mid-term PhD evaluation off the list! Three main projects and four side projects, all on schedule. So proud to be supervising them and their incredible work! <br>
 
-*22 Jul*: 🫀 A null result worth shouting about! Leah's paper is out in Nature Mental Health: interoceptive performance, measured across cardiac and respiratory axes in a large community sample, showed no relationship with mental health symptoms! [Check it out](/publication/2026-07-22-intero-mental-health) <br>
+*22 Jul*: 🫀 A null result worth shouting about! Leah's paper is out in Nature Mental Health: interoceptive performance, measured across cardiac and respiratory axes in a large community sample, showed no relationship with mental health symptoms! [Check it out](/publication/2026-07-22-intero-mental-health){:target="_blank" rel="noopener"} <br>
 
 *1 Jul*: 👋 A warm welcome to Fatemeh, who has joined the lab! She'll be working with neuroimaging data, and we're excited to have her on the team.  <br>
 
 *15-18 Jun*: 🚉 Keeping up with our pilots in Leipzig! Great to see our latest project moving forward. <br>
 
-*10 Jun*: 👁️ New paper in eNeuro, led by Laura Paulsen, in collaboration with Diego Vidaurre's group! Eight MEG sessions, one participant, six months: brain responses to identical images drift over time, but object categorisation holds steady. Replicated in the open THINGS-MEG data too. [Check it out](/publication/2026-06-10-headcast-visual) <br>
+*10 Jun*: 👁️ New paper in eNeuro, led by Laura Paulsen, in collaboration with Diego Vidaurre's group! Eight MEG sessions, one participant, six months: brain responses to identical images drift over time, but object categorisation holds steady. Replicated in the open THINGS-MEG data too. [Check it out](/publication/2026-06-10-headcast-visual){:target="_blank" rel="noopener"} <br>
 
 *17-22 May*: 🏡 Francesca is at the Pain Mechanisms and Therapeutics in Verona, Italy! A wonderful opportunity to feel at home, both geographically and scientifically.  <br>
 
@@ -54,19 +54,19 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *23-24 Apr*: ☕ Such a treat to have Natalia Egorova-Brumley visiting in Aarhus! Two days of brilliant conversations on pain and sleep.  <br>
 
-*25 Mar*: 🧠 Leah's paper on the embodied dimension of the wandering mind is now published in *PNAS*! This one carries a special meaning for everyone involved and honours the spirit of curiosity and collaboration that brought it to life. [Check it out](/publication/2026-03-25-body-wandering) <br>
+*25 Mar*: 🧠 Leah's paper on the embodied dimension of the wandering mind is now published in *PNAS*! This one carries a special meaning for everyone involved and honours the spirit of curiosity and collaboration that brought it to life. [Check it out](/publication/2026-03-25-body-wandering){:target="_blank" rel="noopener"} <br>
 
 *24 Mar*: 👋 Leaving do for the incredible duo Arthur & Jesper. It has been an absolute honour to have them as part of the lab. Their scientific perspectives have left a lasting mark on all of us. We wish them the very best as they continue their academic journeys. The future is bright for both of them! <br>
 
 *16 Mar*: 🔬 A new collaboration kicks off in Leipzig today. We're really excited about this one. Stay tuned to find out what we're cooking! <br>
 
-*21 Feb*: 📖 Camilla's first PhD paper is out in *Cognition*! A huge milestone and a testament to years of hard work. Congratulations, Camilla! [Check it out](/publication/2026-02-21-ddm-cognition) <br>
+*21 Feb*: 📖 Camilla's first PhD paper is out in *Cognition*! A huge milestone and a testament to years of hard work. Congratulations, Camilla! [Check it out](/publication/2026-02-21-ddm-cognition){:target="_blank" rel="noopener"} <br>
 
-*4 Feb*: 📖 Leah's paper is published in *Communications Psychology*! Can you feel your heart? What about your breath? Turns out, one doesn't predict the other. Interoception is not one sense but many. [Check it out](/publication/2025-03-19-multi-intero) <br>
+*4 Feb*: 📖 Leah's paper is published in *Communications Psychology*! Can you feel your heart? What about your breath? Turns out, one doesn't predict the other. Interoception is not one sense but many. [Check it out](/publication/2025-03-19-multi-intero){:target="_blank" rel="noopener"} <br>
 
 *2 Feb*: 🎓 Francesca is in Oxford to serve on a PhD defence committee! Always a pleasure to engage with the next generation of researchers. <br>
 
-*1 Feb*: 👏 Congrats to our colleagues Timo and Kristian for their paper on mental imagery and mental health! [Check it out](/publication/2024-09-01-imagery-health) <br>
+*1 Feb*: 👏 Congrats to our colleagues Timo and Kristian for their paper on mental imagery and mental health! [Check it out](/publication/2024-09-01-imagery-health){:target="_blank" rel="noopener"} <br>
 
 *5 Jan*: 👋 Gergo is officially joining the lab! We're thrilled to have him on board and looking forward to expanding our language modelling projects together. <br>
 
@@ -78,11 +78,11 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *15 Dec*: 🚉 Francesca & Micah are visiting colleagues in Münster and Tübingen for a few days, catching up on the latest science and life events of close friends and collaborators. Science is better when there are also personal connections! <br>
 
-*5 Dec*: 📖 New paper in Journal of Experimental Psychology: Learning, Memory, and Cognition, led by Astrid Lund and in collaboration with Steve Fleming! Preregistered, performance-matched, three domains: knowing how well you're doing generalises across vision, episodic memory, and semantic memory, though not as neatly as you might expect. [Check it out](/publication/2025-05-12-multi-meta) <br>
+*5 Dec*: 📖 New paper in Journal of Experimental Psychology: Learning, Memory, and Cognition, led by Astrid Lund and in collaboration with Steve Fleming! Preregistered, performance-matched, three domains: knowing how well you're doing generalises across vision, episodic memory, and semantic memory, though not as neatly as you might expect. [Check it out](/publication/2025-05-12-multi-meta){:target="_blank" rel="noopener"} <br>
 
 *4 Dec*: 👋 Leaving do for Alex. Four years as a postdoc in the lab is no small feat, and we are so grateful for everything she has brought to our team. As Alex herself says, endings and new beginnings are often bittersweet, but we're glad she's moving on to a new position very close by. This isn't goodbye, just see you soon! <br>
 
-*2 Dec*: 🔥 New paper in PAIN Reports from the IMI-PainCare BioPain consortium, led by Sophie Clarke! After high-frequency stimulation of the skin, secondary hyperalgesia set in, with more brainstem activity and weaker descending inhibition. [Check it out](/publication/2025-12-01-HFS-secondary-hyperalgesia) <br>
+*2 Dec*: 🔥 New paper in PAIN Reports from the IMI-PainCare BioPain consortium, led by Sophie Clarke! After high-frequency stimulation of the skin, secondary hyperalgesia set in, with more brainstem activity and weaker descending inhibition. [Check it out](/publication/2025-12-01-HFS-secondary-hyperalgesia){:target="_blank" rel="noopener"} <br>
 
 *1 Dec*: ✍️ The pre-Christmas grant writing sprint officially starts for Francesca. May the words flow and the deadlines feel far away (they're not). <br>
 
@@ -92,9 +92,9 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *25 Sep*: 🎙️ Day 1 of the first-ever Computational Pain Neuroscience Conference! An incredible line-up took us from single-neuron models to Bayesian frameworks for representation, reward, and pain learning in the human brain. Huge thanks to all speakers for a fantastic start! <br>
 
-*24 Sep*: 🚨 New preprint from Arthur and the lab! Using Bayesian modelling, we show how ageing and diabetic neuropathy impact both sensitivity and precision of thermal perception. [Check it out](/publication/2025-09-24-thresholds-ageing-neuropathy) <br>
+*24 Sep*: 🚨 New preprint from Arthur and the lab! Using Bayesian modelling, we show how ageing and diabetic neuropathy impact both sensitivity and precision of thermal perception. [Check it out](/publication/2025-09-24-thresholds-ageing-neuropathy){:target="_blank" rel="noopener"} <br>
 
-*15 Sep*. 🧠 Remember our preprint on predictive coding and somatosensory neuroscience with Maria and Tristan? It’s now officially published in Imaging Neuroscience! [Check it out](/publication/2025-09-15-somato-global-local) <br>
+*15 Sep*. 🧠 Remember our preprint on predictive coding and somatosensory neuroscience with Maria and Tristan? It’s now officially published in Imaging Neuroscience! [Check it out](/publication/2025-09-15-somato-global-local){:target="_blank" rel="noopener"} <br>
 
 *8 Sep*: 🚉 Francesca is visiting Elena Azanon and colleagues at Magdeburg University! A packed schedule full of inspiring conversations and overlapping ideas. Hopefully new collaborations will be on the horizon soon! <br>
 
@@ -102,15 +102,15 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *2 Sep*: 👋 Welcome, Berran! They're joining the lab for a 6-month internship to investigate how large language models can help us understand conversations around mental health and chronic pain! <br>
 
-*1 Sep*: 🚨 New preprint from Arthur (with Jesper, Leah, Francesca & Micah)! We show how hierarchical Bayesian models can make psychophysics more powerful, efficient, and accessible; with code, tutorials, and even a Shiny app to help researchers get started. [Check it out](/publication/2026-08-07-bayes-intero) <br>
+*1 Sep*: 🚨 New preprint from Arthur (with Jesper, Leah, Francesca & Micah)! We show how hierarchical Bayesian models can make psychophysics more powerful, efficient, and accessible; with code, tutorials, and even a Shiny app to help researchers get started. [Check it out](/publication/2026-08-07-bayes-intero){:target="_blank" rel="noopener"} <br>
 
 *29 Aug*: 🔥 Francesca is presenting at the NeuroTech Symposium in Lausanne! She's sharing some “hot” and “cool” neuroimaging results on how the brain encodes temperature information. Thanks to Marzia for the invite! <br>
 
 *26 Aug*: 🤖 Francesca and Rebecca are at the D3A (Danish Digitalization, Data Science & AI) conference in Nyborg! It was a blast chatting with a new crowd and brainstorming future directions for our LLMs & pain research. <br>
 
-*16 Jul*: 📢 New lab preprint out! We investigated how people experience paradoxical heat sensation, using top-tier computational modeling. Big shoutout to Jesper and Alex for the fantastic work! [Check it out](/publication/2025-07-12-ageing-phs) <br>
+*16 Jul*: 📢 New lab preprint out! We investigated how people experience paradoxical heat sensation, using top-tier computational modeling. Big shoutout to Jesper and Alex for the fantastic work! [Check it out](/publication/2025-07-12-ageing-phs){:target="_blank" rel="noopener"} <br>
 
-*7 Jul*: 📢 Kora's first preprint is out! What can complexity measures reveal about thermosensation and pain? [Find out here!](/publication/2025-07-08-pain-complexity) <br>
+*7 Jul*: 📢 Kora's first preprint is out! What can complexity measures reveal about thermosensation and pain? [Find out here!](/publication/2025-07-08-pain-complexity){:target="_blank" rel="noopener"} <br>
 
 *10 Jun*: 🗣️ Francesca is presenting our latest work at Neuroscience Day at Aarhus University! The theme is "Pain and Placebo," and we have plenty of awesome findings to share with you! <br>
 
@@ -122,7 +122,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *21 Mar*: 💬 We had a great time hosting Cecile de Vos from Rotterdam Uni today! She visited our lab to chat about neuromodulation, spinal cord stimulation, and all the exciting research we’ve been working on lately. Always a pleasure to have such engaging and insightful conversations! <br>
 
-*19 Mar*: 📢 New PsyArXiv preprint from our ECG collaborator Leah, showing domain-specificity in respiratory and cardiac interoception! [Check it out](/publication/2025-03-19-multi-intero) <br>
+*19 Mar*: 📢 New PsyArXiv preprint from our ECG collaborator Leah, showing domain-specificity in respiratory and cardiac interoception! [Check it out](/publication/2025-03-19-multi-intero){:target="_blank" rel="noopener"} <br>
 
 *18 Mar*: 🎶 Exciting lab meeting today! We’re thrilled to welcome Mattia Rosso and Leonardo Bonetti from the Center for Music in the Brain. They will introduce FREQ-NESS, a newly developed method for deriving frequency-resolved brain networks. Looking forward to the discussion!
 
@@ -136,7 +136,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *3 Mar*: 📢 Alex submits a poster abstract to NeuPSIG on paradoxical heat across the lifespan. If this topic interests you, let’s meet in Berlin this fall! <br>
 
-*28 Feb*: 🚀 Our brilliant collaborator, Ashley, has just released her latest preprint on the effects of noradrenergic blockade on interoception and metacognition. Truly fantastic work! [Check it out](/publication/2025-02-28-na-intero) <br>
+*28 Feb*: 🚀 Our brilliant collaborator, Ashley, has just released her latest preprint on the effects of noradrenergic blockade on interoception and metacognition. Truly fantastic work! [Check it out](/publication/2025-02-28-na-intero){:target="_blank" rel="noopener"} <br>
 
 *17 Feb*: 🏆 Thank you, Lundbeck Foundation, for another grant! This time, we’ll be organizing a Computational Pain Conference in Aarhus, scheduled for October 2025. Stay tuned for more details soon! <br>
 
@@ -144,7 +144,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *13 Feb*: 📄 Camilla and Francesca submitted a paper today! After years of work, it feels great to finally send this off. Fingers crossed! <br>
 
-*1 Feb*: 📖  Camila’s latest paper is featured in the February issue of *The Journal of Pain*! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
+*1 Feb*: 📖  Camila’s latest paper is featured in the February issue of *The Journal of Pain*! [Check it out](/publication/2025-02-27-threshold-tgi){:target="_blank" rel="noopener"} <br>
 
 *21 Jan*: 🤝 We had the pleasure of hosting Julia Stache from Karolinska Institutet to discuss our ongoing collaboration on core body temperature perception, inflammation, and sickness. Special thanks to her supervisor, Julie Lasselin, who joined us online to share more about their research! <br>
 
@@ -168,7 +168,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *8 Nov*: 🎙 If you understand French, be sure to catch Arthur’s interview on *Radiofrance*, where he discusses how gravity influences pain sensitivity. Listen in [here](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/la-gravite-terrestre-influence-la-sensibilite-a-la-douleur-1930974){:target="_blank" rel="noopener"} for an insightful conversation! <br>
 
-*25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wandering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering) <br>
+*25 Oct*: 👏 Congrats to our collaborator Leah for preprinting her work on body-wandering! Such fascinating research! [Check it out](/publication/2024-10-25-body-wandering){:target="_blank" rel="noopener"} <br>
 
 *22 Oct*: 🇩🇰 For the next two days, Rebecca is attending the D3A Conference (Danish Digitalization, Data Science, and AI) in Nyborg. Looking forward to the insights she brings back! <br>
 
@@ -176,7 +176,7 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *2 Oct*: 🎉 Welcome, Arthur! Today, he officially starts his postdoc in the BPP Lab, but truth be told, he’s been one of us for a long time already. Excited for this next chapter! <br>
 
-*1 Oct*: 📖 Alex’s latest paper on the thermal grill illusion is featured in the October issue of *Pain*! [Check it out](/publication/2024-10-01-spinal-tgi). We're also grateful for the positive commentary on our work. [Check it out too!](https://journals.lww.com/pain/fulltext/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1#related){:target="_blank" rel="noopener"} <br>
+*1 Oct*: 📖 Alex’s latest paper on the thermal grill illusion is featured in the October issue of *Pain*! [Check it out](/publication/2024-10-01-spinal-tgi){:target="_blank" rel="noopener"}. We're also grateful for the positive commentary on our work. [Check it out too!](https://journals.lww.com/pain/fulltext/2024/10000/disentangling_the_spinal_mechanisms_of_illusory.24.aspx?context=featuredarticles&collectionid=1#related){:target="_blank" rel="noopener"} <br>
 
 *9 Sep*: 📊 Arthur and Jesper at the Stan Conference in Oxford! <br>
 
@@ -198,34 +198,34 @@ Welcome to the news section! Here, we share updates, publications, and exciting 
 
 *1 May*: 👋 Welcome, Johanne! She’s joining our lab for six months and will help us collect data on how ageing and neuropathy influence thermosensation and pain perception. We’re excited to work with her! <br>
 
-*24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs) <br>
+*24 Apr*: 📖 Alex’s latest paper oh paradoxical heat sensation is published in *Communications Psychology*! [Check it out](/publication/2024-04-24-contrast-phs){:target="_blank" rel="noopener"} <br>
 
 *15 Apr*: 🌟 The lab is attending a talk by interoception research giant Olga Pollatos, who is visiting the ECG lab, together with two of her students! We're inspired! <br>
 
-*11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri) <br>
+*11 Apr*: 👏 Huge congrats to our collaborator Niia for preprinting her work on respiratory interoception and its microstructural correlates! This was a massive effort, combining MRI and respiratory interoception research, and testing over 200 individuals! [Check it out](/publication/2024-04-11-rrst-qmri){:target="_blank" rel="noopener"} <br>
 
 *30 Mar*: 🔥 Exciting preprint alert! We're especially proud of our latest work on how uncertainty shapes temperature and pain perception. Hope the world finds it as fascinating as we do! [Check it out](https://www.biorxiv.org/content/10.1101/2024.03.27.587070v1.full){:target="_blank" rel="noopener"}  <br>
 
-*28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm) <br>
+*28 Mar*: 💨 Big congrats to our colleague Malthe for preprinting his study on respiration and perceptual decision-making! [Check it out](/publication/2024-03-28-resp-hddm){:target="_blank" rel="noopener"} <br>
 
-*15 Mar*: ❄️ Another preprint alert! This time, Camila presents her method for calibrating the thermal grill illusion based on individual sensitivity. Psychophysics is cool! [Check it out](/publication/2025-02-27-threshold-tgi) <br>
+*15 Mar*: ❄️ Another preprint alert! This time, Camila presents her method for calibrating the thermal grill illusion based on individual sensitivity. Psychophysics is cool! [Check it out](/publication/2025-02-27-threshold-tgi){:target="_blank" rel="noopener"} <br>
 
 *14 Mar*: 🚀 Today marks the start of our Lundbeck Foundation Experiment Grant project! We are excited to use large language models to better understand pain from the perspectives of healthcare professionals and patients. Looking forward to the journey ahead! <br>
 
 *26 Feb*: 🌈 Alex is visiting Ben de Haas in Giessen this week! Will population receptive field mapping reveal a spatial map for encoding temperature in the cortex? Stay tuned for the answer! <br>
 
-*12 Feb*: 🧠 Preprint alert! When consciousness research meets somatosensory neuroscience, exciting things happen! This one comes from our collaboration with Maria and Tristan at Cambridge University! [Check out the publication!](/publication/2025-09-15-somato-global-local) <br>
+*12 Feb*: 🧠 Preprint alert! When consciousness research meets somatosensory neuroscience, exciting things happen! This one comes from our collaboration with Maria and Tristan at Cambridge University! [Check out the publication!](/publication/2025-09-15-somato-global-local){:target="_blank" rel="noopener"} <br>
 
 *9 Feb*: 🇦🇹 We’re submitting poster abstracts for FENS in Vienna this June! This will be the first joint conference for the BPP and ECG labs. <br>
 
-*5 Feb*: 📖 Congrats to Sophie and all collaborators on their review and meta-analysis on peripheral and central sensitization, now accepted in the *European Journal of Pain*. [Check it out](/publication/2024-05-02-meta-analysis-sensitisation) <br>
+*5 Feb*: 📖 Congrats to Sophie and all collaborators on their review and meta-analysis on peripheral and central sensitization, now accepted in the *European Journal of Pain*. [Check it out](/publication/2024-05-02-meta-analysis-sensitisation){:target="_blank" rel="noopener"} <br>
 
-*1 Feb*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation. And here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta) <br>
+*1 Feb*: 👀 Well done, Kelly, on this thought-provoking new preprint! Fascinating findings on gender differences in self-insight and performance evaluation. And here’s a hint: one group tends to underestimate themselves. Can you guess which? [Check it out](/publication/2024-01-31-gender-meta){:target="_blank" rel="noopener"} <br>
 
 *31 Jan*:  🇳🇱 Most team members submitted poster abstracts to IASP today. Looking forward to attending this conference in Amsterdam this August! <br>
 
-*10 Jan*: 📢 Preprint alert! The research Rebecca started during her bachelor thesis has now developed into a manuscript ready for submission. Impressive work! [Check it out](/publication/2025-07-13-pain-health) <br>
+*10 Jan*: 📢 Preprint alert! The research Rebecca started during her bachelor thesis has now developed into a manuscript ready for submission. Impressive work! [Check it out](/publication/2025-07-13-pain-health){:target="_blank" rel="noopener"} <br>
 
-*2 Jan*: 🎉 This landmark study on paradoxical heat sensation in individuals with pain-related chronic conditions is now featured in the January issue of *Pain*. Huge congratulations to everyone involved! [Check it out](/publication/2024-01-01-clinical-phs) <br>
+*2 Jan*: 🎉 This landmark study on paradoxical heat sensation in individuals with pain-related chronic conditions is now featured in the January issue of *Pain*. Huge congratulations to everyone involved! [Check it out](/publication/2024-01-01-clinical-phs){:target="_blank" rel="noopener"} <br>
 
 *1 Jan*: 🎂 The BPP Lab turns three! That means we’re officially a toddler: full of energy, curiosity, and occasionally causing a little chaos in the name of science! <br>
