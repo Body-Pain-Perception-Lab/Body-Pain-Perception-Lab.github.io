@@ -16,6 +16,10 @@ Using natural language processing and statistical models to detect early signs o
 **EEG complexity and pain perception** <br>
 Studying how measures of neural complexity in EEG signals relate to pain-related processing and pain perception.
 
+## **DFF Research Project 1 (2027-2030)**  
+**Pain in the patient's own words: From AI-based information-seeking to language-based assessment**  
+Understanding the patient's perspective on pain, from the questions people ask AI to how their experiences can shape pain assessment.
+
 
 ---
 
